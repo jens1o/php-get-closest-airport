@@ -1,0 +1,21 @@
+{
+    "name": "jens1o/php-get-closest-airport",
+    "description": "Returns the closest airport to the current position",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jens Hausdorf",
+            "email": "jenshausdorf@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "jens1o\\airport\\": "src/"
+        }
+    }
+}

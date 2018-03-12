@@ -1,0 +1,4247 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.54.13 ff15392f",
+  "osm3s": {
+    "timestamp_osm_base": "2018-03-11T11:03:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 11127222,
+  "lat": 55.8719444,
+  "lon": -4.4330556,
+  "tags": {
+    "addr:city": "Paisley",
+    "addr:county": "Renfrewshire",
+    "addr:postcode": "PA3 2SW",
+    "aerodrome": "international",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "alt_name": "Glasgow Airport",
+    "closest_town": "Glasgow",
+    "iata": "GLA",
+    "icao": "EGPF",
+    "ifr": "yes",
+    "is_in": "Paisley, Scotland, UK",
+    "name": "Glasgow Airport",
+    "name:en": "Glasgow Airport",
+    "name:gd": "Port-adhair Ghlaschu",
+    "operator": "Glasgow Airport Limited",
+    "phone": "0141 887 1111",
+    "ref": "GLA",
+    "source": "CAA AIP",
+    "wikidata": "Q8721",
+    "wikipedia": "en:Glasgow Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 21716289,
+  "lat": 34.5642298,
+  "lon": 69.2133754,
+  "tags": {
+    "aerodrome": "international",
+    "aerodrome:type": "military/public",
+    "aeroway": "aerodrome",
+    "alt_name": "Hamid Karzai International Airport",
+    "alt_name:de": "Internationaler Flughafen Hamid Karzai",
+    "alt_name:en": "Hamid Karzai International Airport",
+    "ele": "1789",
+    "iata": "KBL",
+    "icao": "OAKB",
+    "internet_access": "wlan",
+    "internet_access:fee": "yes",
+    "is_in": "Kabul",
+    "military": "airfield",
+    "name": "Hamid Karzai International Airport",
+    "name:ar": "مطار كابل الدولي",
+    "name:ps": "د حامد کرزي نړیوال هوايي ډګر",
+    "operator": "Military of Belgium-- 1 October 2007 to 1 October 2008",
+    "owner": "Ministry of Transportation and Civil Aviation",
+    "short_name": "KIA",
+    "source": "wikipedia;local_knowledge",
+    "wikidata": "Q744802",
+    "wikipedia": "en:Hamid Karzai International Airport",
+    "wikipedia_1": "ps:کندهار هوايي ډګر"
+  }
+},
+{
+  "type": "node",
+  "id": 26608365,
+  "lat": 60.3189332,
+  "lon": 24.9682958,
+  "tags": {
+    "TEN-T": "core",
+    "addr:city": "Vantaa",
+    "addr:country": "FI",
+    "addr:housenumber": "1",
+    "addr:postcode": "01530",
+    "addr:street": "Lentoasemantie",
+    "aerodrome": "international",
+    "aerodrome:type": "civil",
+    "aeroway": "aerodrome",
+    "alt_name": "Lentokenttä",
+    "ele": "55",
+    "iata": "HEL",
+    "icao": "EFHK",
+    "int_name": "Helsinki Airport",
+    "internet_access": "wlan",
+    "is_in": "Vantaa",
+    "loc_name": "Lentoasema",
+    "loc_name:en": "Airport",
+    "loc_name:sv": "Flygplats",
+    "name": "Helsinki-Vantaan lentoasema",
+    "name:de": "Flughafen Helsinki",
+    "name:en": "Helsinki Airport",
+    "name:fi": "Helsinki-Vantaan lentoasema",
+    "name:ru": "Аэропорт Хе́льсинки",
+    "name:sv": "Helsingfors-Vanda flygplats",
+    "note": "Primary international aerodrome",
+    "operator": "Finavia",
+    "ref": "HEL",
+    "short_name": "Helsinki-Vantaa",
+    "short_name:sv": "Helsingfors-Vanda",
+    "source": "Gagravarr_Airports",
+    "website": "http://www.helsinkiairport.fi/",
+    "wikidata": "Q215327",
+    "wikipedia": "en:Helsinki Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 26608581,
+  "lat": 56.4397000,
+  "lon": -3.3723000,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "city_served": "Perth, Scotland",
+    "ele": "121",
+    "iata": "PSL",
+    "icao": "EGPT",
+    "is_in": "GB",
+    "name": "Perth Airport",
+    "name_1": "Scone",
+    "operator": "Air Charter Scotland Ltd",
+    "source": "wikipedia",
+    "wikidata": "Q3915010",
+    "wikipedia": "en:Perth Airport (Scotland)"
+  }
+},
+{
+  "type": "node",
+  "id": 26608678,
+  "lat": -4.6702698,
+  "lon": 55.5120760,
+  "tags": {
+    "aerodrome": "international",
+    "aerodrome:type": "civil",
+    "aeroway": "aerodrome",
+    "ele": "3",
+    "iata": "SEZ",
+    "icao": "FSIA",
+    "is_in": "Victoria,Mahe I,Seychelles",
+    "name": "Aéroport International de Seychelles - Pointe Larue",
+    "name:en": "Seychelles International Airport - Pointe Larue",
+    "operator": "Seychelles Civil Aviation Authority",
+    "passengers": "726524",
+    "source": "Gagravarr_Airports;en:wikipedia",
+    "website": "http://www.scaa.sc/",
+    "wikidata": "Q1432843",
+    "wikipedia": "en:Seychelles International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 26608719,
+  "lat": 0.0448664,
+  "lon": 32.4417503,
+  "tags": {
+    "aerodrome": "international",
+    "aeroway": "aerodrome",
+    "closest_town": "Entebbe",
+    "ele": "1153",
+    "iata": "EBB",
+    "icao": "HUEN",
+    "is_in": "Kampala,,Uganda",
+    "name": "Entebbe International Airport",
+    "name:en": "Entebbe International Airport",
+    "operator": "Civil Aviation Authority of Uganda",
+    "website": "http://www.entebbe-airport.com/",
+    "wikidata": "Q586065",
+    "wikipedia": "en:Entebbe International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 26608941,
+  "lat": 33.8259397,
+  "lon": 35.4933026,
+  "tags": {
+    "aerodrome": "international",
+    "aerodrome:type": "civil",
+    "aeroway": "aerodrome",
+    "alt_name": "مطار بيروت الدولي",
+    "alt_name_1": "Beirut International Airport",
+    "alt_name_2": "Beirut Airport",
+    "alt_name_3": "Rafik Hariri Airport",
+    "ele": "27",
+    "fixme": "name, name:en mismatch. name, name:en mismatch.",
+    "iata": "BEY",
+    "icao": "OLBA",
+    "internet_access": "wlan",
+    "is_in": "Lebanon, Beirut بيروت لبنان",
+    "name": "Beirut-Rafic Hariri International Airport",
+    "name:ar": "مطار بيروت رفيق الحريري الدولي",
+    "name:de": "Rafiq-Hariri-Flughafen",
+    "name:en": "Beirut–Rafic Hariri International Airport",
+    "name:es": "Aeropuerto Internacional Beirut-Rafic Hariri",
+    "name:fr": "Aéroport International de Beyrouth–Rafic Hariri",
+    "name:hi": "बेरूत–रफीक हरीरी अंतर्राष्ट्रीय हवाई अड्डा",
+    "name:hy": "Բեյրութ-Ռաֆիկ Հարիրի միջազգային օդանավակայան",
+    "name:zh": "贝鲁特-拉菲克·哈里里国际机场",
+    "phone": "+961 1 628 000",
+    "website": "http://www.beirutairport.gov.lb/",
+    "wikipedia": "en:Rafic Hariri Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 26609014,
+  "lat": 22.3089881,
+  "lon": 113.9150883,
+  "tags": {
+    "aerodrome": "international",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "alt_name": "赤鱲角機場 Chek Lap Kok Airport",
+    "alt_name:en": "Chek Lap Kok Airport",
+    "alt_name:vi": "Sân bay quốc tế Xích Lạp Giác",
+    "alt_name:zh": "赤鱲角機場",
+    "city_served": "Hong Kong",
+    "ele": "9",
+    "iata": "HKG",
+    "icao": "VHHH",
+    "name": "香港國際機場 Hong Kong International Airport",
+    "name:de": "Flughafen Hongkong-Chek Lap Kok",
+    "name:en": "Hong Kong International Airport",
+    "name:ja": "香港国際空港",
+    "name:ko": "홍콩국제공항",
+    "name:vi": "Sân bay quốc tế Hồng Kông",
+    "name:zh": "香港國際機場",
+    "operator": "Hong Kong Airport Authority",
+    "rank_aci:2016": "8",
+    "wikidata": "Q17704",
+    "wikipedia": "en:Hong Kong International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 30419164,
+  "lat": 42.1141670,
+  "lon": 24.9930560,
+  "tags": {
+    "aerodrome": "military",
+    "aerodrome:type": "military",
+    "aeroway": "aerodrome",
+    "icao": "LBPS",
+    "name": "25-та ИБАБ",
+    "name:en": "Cheshnegirovo AFB"
+  }
+},
+{
+  "type": "node",
+  "id": 42042357,
+  "lat": 48.6373219,
+  "lon": 8.8112267,
+  "tags": {
+    "addr:country": "DE",
+    "addr:postcode": "75392",
+    "aerodrome": "gliding",
+    "aeroway": "aerodrome",
+    "name": "Segelflugplatz Deckenpfronn",
+    "website": "http://www.fsv-sindelfingen-ev.de/index.php?id=11",
+    "wikidata": "Q1725140",
+    "wikipedia": "de:Segelfluggelände Deckenpfronn-Egelsee"
+  }
+},
+{
+  "type": "node",
+  "id": 59835028,
+  "lat": 63.0449579,
+  "lon": 21.7641844,
+  "tags": {
+    "addr:city": "Vaasa",
+    "addr:housenumber": "159",
+    "addr:postcode": "65380",
+    "addr:street": "Lentokentäntie",
+    "aerodrome": "international",
+    "aeroway": "aerodrome",
+    "closest_town": "Vaasa",
+    "ele": "6",
+    "iata": "VAA",
+    "icao": "EFVA",
+    "name": "Vaasan lentoasema",
+    "name:en": "Vaasa Airport",
+    "name:fi": "Vaasan lentoasema",
+    "name:sv": "Vasa flygplats",
+    "operator": "Finavia",
+    "source": "wikipedia",
+    "type": "public",
+    "wikidata": "Q1322467",
+    "wikipedia": "en:Vaasa Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 60647148,
+  "lat": 47.4859603,
+  "lon": 9.5598603,
+  "tags": {
+    "aerodrome": "regional",
+    "aerodrome:type": "private",
+    "aeroway": "aerodrome",
+    "ele": "398",
+    "iata": "ACH",
+    "icao": "LSZR",
+    "name": "Business Airport St.Gallen - Altenrhein",
+    "passengers": "80000",
+    "ref": "ACH",
+    "wikidata": "Q689836",
+    "wikipedia": "en:St. Gallen–Altenrhein Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 87893858,
+  "lat": 59.3512139,
+  "lon": -2.8986988,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "city_served": "Papa Westray",
+    "ele": "28",
+    "iata": "PPW",
+    "icao": "EGEP",
+    "name": "Papa Westray Airport",
+    "name:en": "Papa Westray Airport",
+    "name_1": "Papa Westray",
+    "operator": "Orkney Islands Council",
+    "source": "wikipedia",
+    "wikidata": "Q2033856",
+    "wikipedia": "en:Papa Westray Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 192235918,
+  "lat": 50.8817852,
+  "lon": 12.1311075,
+  "tags": {
+    "aerodrome": "airport",
+    "aeroway": "aerodrome",
+    "icao": "EDAJ",
+    "is_in": "Leumnitz, Gera, Thüringen, Bundesrepublik Deutschland,Europe",
+    "name": "Flugplatz Gera-Leumnitz",
+    "website": "http://www.flugplatz-gera.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 251396824,
+  "lat": 52.7106780,
+  "lon": 9.1673589,
+  "tags": {
+    "aerodrome": "airsport",
+    "aeroway": "aerodrome",
+    "icao": "EDXI",
+    "name": "Sportflugplatz Holzbalge"
+  }
+},
+{
+  "type": "node",
+  "id": 252200697,
+  "lat": -26.0397706,
+  "lon": 27.5961423,
+  "tags": {
+    "aerodrome": "gliding",
+    "aeroway": "aerodrome",
+    "alt_name": "Magalies Gliding Club",
+    "gliding": "aerotow, winch_lanch",
+    "icao": "FAOI",
+    "licensed:sacaa": "yes",
+    "name": "Orient",
+    "sport": "gliding"
+  }
+},
+{
+  "type": "node",
+  "id": 256264141,
+  "lat": 51.8011000,
+  "lon": -0.1560000,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "ele": "76",
+    "icao": "EGLG",
+    "is_in": "Welwyn Garden City",
+    "name": "Panshanger Aerodrome",
+    "name:en": "Panshanger Aerodrome",
+    "operator": "Professional Flight Management Ltd",
+    "source": "wikipedia",
+    "wikidata": "Q3914782",
+    "wikipedia": "en:Panshanger Aerodrome"
+  }
+},
+{
+  "type": "node",
+  "id": 258145809,
+  "lat": 15.4781506,
+  "lon": 44.2205499,
+  "tags": {
+    "aerodrome": "international",
+    "aerodrome:type": "military/public",
+    "aeroway": "aerodrome",
+    "alt_name": "مطار صنعاء الدولي",
+    "closest_town": "Sana'a",
+    "ele": "2199",
+    "iata": "SAH",
+    "icao": "OYSN",
+    "name": "مطار صنعاء الدولي",
+    "name:ar": "مطار صنعاء الدولي",
+    "name:de": "Internationaler Flughafen Sanaa",
+    "name:en": "Sana'a International Airport",
+    "source": "wikipedia",
+    "wikidata": "Q1165296",
+    "wikipedia": "en:Sana'a International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 259849768,
+  "lat": 23.0944462,
+  "lon": -82.4386191,
+  "tags": {
+    "aerodrome": "disused",
+    "aeroway": "aerodrome",
+    "icao": "MULB",
+    "name": "Aerodromo Ciudad Libertad"
+  }
+},
+{
+  "type": "node",
+  "id": 272000355,
+  "lat": 59.9002778,
+  "lon": 17.5925000,
+  "tags": {
+    "aerodrome": "military",
+    "aerodrome:type": "military",
+    "aeroway": "aerodrome",
+    "alt_name": "Uppsala-Ärna flygplats",
+    "ele": "21",
+    "icao": "ESCM",
+    "is_in": "Uppsala",
+    "name": "Ärna",
+    "source": "wikipedia",
+    "wikidata": "Q1015314",
+    "wikipedia": "sv:Uppsala-Ärna flygplats",
+    "wikipedia:en": "Ärna"
+  }
+},
+{
+  "type": "node",
+  "id": 273484836,
+  "lat": 50.9951056,
+  "lon": 7.3729597,
+  "tags": {
+    "aerodrome": "gliding",
+    "aeroway": "aerodrome",
+    "name": "Segelflugplatz Lindlar",
+    "website": "http://www.lsv-lindlar.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 277360778,
+  "lat": 51.8935972,
+  "lon": -2.1644171,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "ele": "31",
+    "iata": "GLO",
+    "icao": "EGBJ",
+    "is_in": "Staverton, Gloucestershire",
+    "name": "Gloucestershire Airport",
+    "name:en": "Gloucestershire Airport",
+    "operator": "Gloucestershire Airport Limited",
+    "source": "wikipedia",
+    "website": "http://www.gloucestershireairport.co.uk/",
+    "wikidata": "Q2475512",
+    "wikipedia": "en:Gloucestershire Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 285994845,
+  "lat": 17.3867791,
+  "lon": 102.7775596,
+  "tags": {
+    "aerodrome": "international",
+    "aeroway": "aerodrome",
+    "ele": "176",
+    "iata": "UTH",
+    "icao": "VTUD",
+    "name": "ท่าอากาศยานนานาชาติอุดรธานี",
+    "name:en": "Udon Thani International Airport",
+    "name:th": "ท่าอากาศยานนานาชาติอุดรธานี",
+    "passengers": "1011000",
+    "ref": "UTH",
+    "wikidata": "Q1299161",
+    "wikipedia": "th:ท่าอากาศยานนานาชาติอุดรธานี"
+  }
+},
+{
+  "type": "node",
+  "id": 288491566,
+  "lat": 32.7863518,
+  "lon": 21.9439769,
+  "tags": {
+    "aerodrome": "international",
+    "aeroway": "aerodrome",
+    "alt_name": "Al Bayda Airport",
+    "iata": "LAQ",
+    "icao": "HLLQ",
+    "name": "مطار الابرق الدولي",
+    "name:en": "Al Abraq International Airport",
+    "name:pl": "Port lotniczy La Abrak",
+    "operator": "LCAA",
+    "source": "wikipedia",
+    "wikidata": "Q36171",
+    "wikipedia": "en:Al Abraq International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 288511831,
+  "lat": 19.4339102,
+  "lon": 37.2376846,
+  "tags": {
+    "aerodrome": "international",
+    "aeroway": "aerodrome",
+    "ele": "43",
+    "iata": "PZU",
+    "icao": "HSSP",
+    "is_in:city": "Port Sudan",
+    "is_in:country": "Sudan",
+    "is_in:country_code": "SD",
+    "name": "Port Sudan New International Airport",
+    "wikidata": "Q1431022",
+    "wikipedia": "en:Port Sudan New International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 289434781,
+  "lat": -10.2946522,
+  "lon": -48.3578265,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "ele": "236",
+    "iata": "PMW",
+    "icao": "SBPJ",
+    "int_name": "Palmas Airport",
+    "name": "Aeroporto de Palmas – Brigadeiro Lysias Rodrigues",
+    "official_name": "Aeroporto de Palmas/TO – Brigadeiro Lysias Rodrigues",
+    "operator": "Infraero",
+    "passengers": "600918",
+    "start_date": "2001",
+    "wikidata": "Q7128160",
+    "wikipedia": "pt:Aeroporto de Palmas"
+  }
+},
+{
+  "type": "node",
+  "id": 290163173,
+  "lat": 18.5017212,
+  "lon": -77.9162101,
+  "tags": {
+    "aerodrome": "international",
+    "aeroway": "aerodrome",
+    "alt_name": "Montego Bay",
+    "closest_town": "Montego Bay",
+    "description": "Jamaica's largest and busiest airport",
+    "ele": "1",
+    "iata": "MBJ",
+    "icao": "MKJS",
+    "name": "Sangster International Airport",
+    "name:en": "Sangster International Airport",
+    "official_name": "Sir Donald Sangster International Airport",
+    "old_name": "Montego Bay Airport",
+    "operator": "MBJ Airports Ltd.",
+    "source": "wikipedia",
+    "type": "public",
+    "website": "www.mbjairport.com",
+    "wikidata": "Q174140",
+    "wikipedia": "en:Sangster International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 290669983,
+  "lat": 19.9514974,
+  "lon": 99.8800201,
+  "tags": {
+    "aerodrome": "international",
+    "aeroway": "aerodrome",
+    "ele": "390",
+    "iata": "CEI",
+    "icao": "VTCT",
+    "name": "ท่าอากาศยานเชียงราย",
+    "name:en": "Chiang Rai International Airport",
+    "name:pl": "Port lotniczy Chiang Rai",
+    "name:th": "ท่าอากาศยานเชียงราย",
+    "passengers": "818000",
+    "wikidata": "Q969597",
+    "wikipedia": "en:Mae Fah Luang-Chiang Rai International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 291998984,
+  "lat": 51.8331205,
+  "lon": -4.9610359,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "alt_name": "Haverfordwest Aerodrome",
+    "closest_town": "Haverfordwest",
+    "ele": "48",
+    "iata": "HAW",
+    "icao": "EGFE",
+    "name": "Withybush Airport",
+    "name:cy": "Maes Awyr Hwlffordd",
+    "operator": "Pembrokeshire County Council",
+    "source": "wikipedia",
+    "wikidata": "Q3887332",
+    "wikipedia": "en:Haverfordwest Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 297043581,
+  "lat": 47.9893477,
+  "lon": 10.2325378,
+  "tags": {
+    "addr:city": "Memmingerberg",
+    "addr:country": "DE",
+    "addr:housenumber": "35",
+    "addr:postcode": "87766",
+    "addr:street": "Am Flughafen",
+    "aerodrome": "international",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "ele": "629",
+    "email": "info@allgaeu-airport.de",
+    "fax": "+49 8331984200-19",
+    "iata": "FMM",
+    "icao": "EDJA",
+    "is_in": "DE",
+    "name": "Allgäu Airport Memmingen",
+    "name:de": "Flughafen Memmingen",
+    "name:en": "Memmingen Airport",
+    "name:fr": "Aéroport de Memmingen",
+    "name:sr": "Меминген (Минхен Запад)",
+    "name:sr-Latn": "Memingen (Minhen Zapad)",
+    "operator": "Flughafen Memmingen GmbH",
+    "passengers": "996714",
+    "phone": "+49 8331 984200-0",
+    "ref": "FMM",
+    "website": "http://www.allgaeu-airport.de",
+    "wikidata": "Q651281",
+    "wikipedia": "de:Flughafen Memmingen"
+  }
+},
+{
+  "type": "node",
+  "id": 297329780,
+  "lat": 6.9353952,
+  "lon": 100.3937098,
+  "tags": {
+    "aerodrome": "international",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "ele": "27",
+    "iata": "HDY",
+    "icao": "VTSS",
+    "name": "ท่าอากาศยานนานาชาติหาดใหญ่",
+    "name:en": "Hat Yai International Airport",
+    "name:th": "ท่าอากาศยานนานาชาติหาดใหญ่",
+    "operator": "Airports of Thailand",
+    "passengers": "1869000",
+    "source": "wikipedia",
+    "wikidata": "Q912583",
+    "wikipedia": "en:Hat Yai International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 297599679,
+  "lat": 12.2808021,
+  "lon": 102.3236367,
+  "tags": {
+    "aerodrome": "domestic",
+    "aeroway": "aerodrome",
+    "ele": "32",
+    "iata": "TDX",
+    "icao": "VTBO",
+    "name": "ท่าอากาศยานตราด",
+    "name:en": "Trat Airport",
+    "passengers": "81000",
+    "source": "Wikipedia",
+    "wikidata": "Q1433097",
+    "wikipedia": "th:ท่าอากาศยานตราด"
+  }
+},
+{
+  "type": "node",
+  "id": 301507281,
+  "lat": 19.3027616,
+  "lon": 97.9739180,
+  "tags": {
+    "aerodrome": "domestic",
+    "aeroway": "aerodrome",
+    "iata": "HGN",
+    "icao": "VTCH",
+    "name": "Mae Hong Son Airport",
+    "name:en": "Mae Hong Son Airport",
+    "name:th": "ท่าอากาศยานแม่ฮ่องสอน",
+    "passengers": "55000",
+    "wikidata": "Q1431989",
+    "wikipedia": "en:Mae Hong Son Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 307645742,
+  "lat": 51.6897254,
+  "lon": 7.8146617,
+  "tags": {
+    "addr:city": "Hamm",
+    "addr:country": "DE",
+    "addr:housenumber": "24",
+    "addr:postcode": "59065",
+    "addr:street": "Heessener Straße",
+    "aerodrome": "privat",
+    "aeroway": "aerodrome",
+    "ele": "57.91",
+    "icao": "EDLH",
+    "name": "Flugplatz Hamm-Lippewiesen",
+    "operator": "Luftsportclub Hamm e.V.",
+    "wikidata": "Q1328020",
+    "wikipedia": "de:Flugplatz Hamm-Lippewiesen"
+  }
+},
+{
+  "type": "node",
+  "id": 308337223,
+  "lat": 51.2138741,
+  "lon": -0.1400136,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "ele": "68",
+    "iata": "KRH",
+    "icao": "EGKR",
+    "is_in": "Redhill, Surrey",
+    "name": "Redhill Aerodrome",
+    "name:en": "Redhill Aerodrome",
+    "operator": "Redhill Aerodrome Ltd",
+    "source": "wikipedia",
+    "wikidata": "Q3914747",
+    "wikipedia": "en:Redhill Aerodrome"
+  }
+},
+{
+  "type": "node",
+  "id": 321522576,
+  "lat": 46.0016489,
+  "lon": 8.9066263,
+  "tags": {
+    "aerodrome": "regional",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "ele": "279",
+    "iata": "LUG",
+    "icao": "LSZA",
+    "name": "Lugano Airport",
+    "passengers": "175000",
+    "wheelchair": "yes",
+    "wikidata": "Q661389",
+    "wikipedia": "en:Lugano Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 329613878,
+  "lat": 48.6108478,
+  "lon": 9.4713182,
+  "tags": {
+    "aerodrome": "gliding",
+    "aeroway": "aerodrome",
+    "name": "Segelflugplatz Dettingen/Teck"
+  }
+},
+{
+  "type": "node",
+  "id": 331018258,
+  "lat": 65.5483042,
+  "lon": 22.1214883,
+  "tags": {
+    "aerodrome": "international",
+    "aerodrome:type": "military/public",
+    "aeroway": "aerodrome",
+    "closest_town": "Luleå",
+    "ele": "20",
+    "iata": "LLA",
+    "icao": "ESPA",
+    "name": "Luleå Airport",
+    "name:en": "Luleå Airport",
+    "name_1": "Kallax",
+    "operator": "Swedish Civil Aviation Administration",
+    "source": "wikipedia",
+    "wikidata": "Q1431971",
+    "wikipedia": "en:Luleå Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 340442661,
+  "lat": 48.6127224,
+  "lon": 9.4772415,
+  "tags": {
+    "aerodrome": "regional",
+    "aeroway": "aerodrome",
+    "icao": "EDTN",
+    "name": "Flugplatz Nabern/Teck"
+  }
+},
+{
+  "type": "node",
+  "id": 350471122,
+  "lat": 49.2276057,
+  "lon": 16.1738481,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "name": "Jinošov",
+    "note": "polnohospodářské letiště"
+  }
+},
+{
+  "type": "node",
+  "id": 368379966,
+  "lat": 14.9944519,
+  "lon": 145.6264479,
+  "tags": {
+    "aerodrome": "public",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "description": "Inter-island passenger traffic (Saipain, Rotaa, Guamm). Accomodates single engine aircraft.",
+    "ele": "88",
+    "gnis:county_name": "Tinian",
+    "gnis:created": "01/01/2000",
+    "gnis:feature_id": "1390641",
+    "gnis:feature_type": "Airport",
+    "iata": "TIQ",
+    "icao": "PGWT",
+    "name": "Tinian International Airport",
+    "name:en": "Tinian International Airport",
+    "name:ja": "テニアン 国際空港",
+    "operator": "Commonwealth Ports Authority",
+    "website": "cpa.gov.mp/tinapt.asp",
+    "wikidata": "Q1137513",
+    "wikipedia": "en:Tinian International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 368380934,
+  "lat": -14.3283971,
+  "lon": -170.7122885,
+  "tags": {
+    "aerodrome": "international",
+    "aeroway": "aerodrome",
+    "ele": "0",
+    "gnis:county_name": "Western",
+    "gnis:created": "04/01/1994",
+    "gnis:feature_id": "1389410",
+    "gnis:feature_type": "Airport",
+    "iata": "PPG",
+    "icao": "NSTU",
+    "name": "Pago Pago International Airport",
+    "ref": "PPG",
+    "wikidata": "Q939904",
+    "wikipedia": "en:Pago Pago International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 368989100,
+  "lat": 39.8625998,
+  "lon": -76.8319179,
+  "tags": {
+    "addr:state": "PA",
+    "aerodrome": "disused",
+    "aeroway": "aerodrome",
+    "ele": "197",
+    "gnis:county_name": "York",
+    "gnis:created": "08/30/1990",
+    "gnis:feature_id": "1193762",
+    "gnis:feature_type": "Airport",
+    "name": "B and B Airport (historical)"
+  }
+},
+{
+  "type": "node",
+  "id": 368990008,
+  "lat": 41.3084021,
+  "lon": -77.5247029,
+  "tags": {
+    "addr:state": "PA",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "544",
+    "gnis:county_name": "Clinton",
+    "gnis:created": "08/30/1990",
+    "gnis:feature_id": "1194208",
+    "gnis:feature_type": "Airport",
+    "name": "Ponderosa Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 369002647,
+  "lat": 39.3322750,
+  "lon": -77.0972864,
+  "tags": {
+    "access": "private",
+    "addr:state": "MD",
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "ele": "244",
+    "gnis:county_name": "Howard",
+    "gnis:created": "09/01/1992",
+    "gnis:feature_id": "595315",
+    "gnis:feature_type": "Airport",
+    "name": "Barnes Airport",
+    "wikidata": "Q35246165"
+  }
+},
+{
+  "type": "node",
+  "id": 369022415,
+  "lat": 43.5474447,
+  "lon": -83.8944489,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "faa": "3CM",
+    "gnis:feature_id": "1623796",
+    "is_in": "Bay City, Michigan",
+    "name": "James Clements Municipal Airport",
+    "owner": "City of Bay City, Michigan",
+    "wikidata": "Q2902591",
+    "wikipedia": "en:James Clements Municipal Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 369023081,
+  "lat": 44.6803000,
+  "lon": -84.7288000,
+  "tags": {
+    "addr:state": "MI",
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "closest_town": "Grayling, Michigan",
+    "ele": "352",
+    "faa": "GOV",
+    "gnis:feature_id": "1623935",
+    "icao": "KGOV",
+    "name": "Grayling Army Airfield",
+    "name_1": "Grayling Army Air Field",
+    "operator": "US Army",
+    "wikidata": "Q3913284",
+    "wikipedia": "en:Grayling Army Airfield"
+  }
+},
+{
+  "type": "node",
+  "id": 369023729,
+  "lat": 43.3709288,
+  "lon": -85.6408345,
+  "tags": {
+    "addr:state": "MI",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "265",
+    "gnis:county_name": "Newaygo",
+    "gnis:created": "02/08/2007",
+    "gnis:feature_id": "2106638",
+    "gnis:feature_type": "Airport",
+    "name": "Bellamy Landing Strip"
+  }
+},
+{
+  "type": "node",
+  "id": 369044964,
+  "lat": 43.2266667,
+  "lon": -78.4005556,
+  "tags": {
+    "addr:state": "NY",
+    "aerodrome": "abandoned",
+    "aeroway": "aerodrome",
+    "ele": "152",
+    "gnis:county_name": "Orleans",
+    "gnis:created": "04/11/2008",
+    "gnis:feature_id": "2417492",
+    "gnis:feature_type": "Airport",
+    "name": "Grant Landing Strip",
+    "note": "Still listed in FAA DB, however telephone numbers for Manager and Owner are disconnected. Searches on names brings up FAA DB realted hits and death notices. Marking Abandoned. 2011=03-21"
+  }
+},
+{
+  "type": "node",
+  "id": 369072540,
+  "lat": 43.3948945,
+  "lon": -70.7092576,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "faa": "SFM",
+    "gnis:feature_id": "582225",
+    "iata": "SFM",
+    "icao": "KSFM",
+    "name": "Sanford Seacoast Regional Airport",
+    "old_name": "Sanford Municipal Airport",
+    "owner": "Town of Sanford",
+    "wikidata": "Q7417651",
+    "wikipedia": "en:Sanford Seacoast Regional Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 369093678,
+  "lat": 32.5892257,
+  "lon": -110.8544893,
+  "tags": {
+    "addr:state": "AZ",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "1175",
+    "gnis:county_name": "Pinal",
+    "gnis:created": "08/01/1994",
+    "gnis:feature_id": "45426",
+    "gnis:feature_type": "Airport",
+    "name": "Biosphere Two Landing Field",
+    "source_ref": "geonames.usgs.gov"
+  }
+},
+{
+  "type": "node",
+  "id": 369093747,
+  "lat": 32.5892389,
+  "lon": -110.8539919,
+  "tags": {
+    "addr:state": "AZ",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "1185",
+    "gnis:county_name": "Pinal",
+    "gnis:created": "08/01/1994",
+    "gnis:feature_id": "45425",
+    "gnis:feature_type": "Airport",
+    "name": "Little Hill Mines Incorporated Airport",
+    "source_ref": "geonames.usgs.gov"
+  }
+},
+{
+  "type": "node",
+  "id": 369122213,
+  "lat": 27.9786858,
+  "lon": -97.7879540,
+  "tags": {
+    "abandoned:aeroway": "aerodrome",
+    "aerodrome": "private",
+    "ele": "15",
+    "faa": "68TX",
+    "gnis:feature_id": "1387503",
+    "name": "San Patricio International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 369138424,
+  "lat": 26.6611101,
+  "lon": -81.7702129,
+  "tags": {
+    "addr:state": "FL",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "5",
+    "gnis:county_name": "Lee",
+    "gnis:created": "08/01/1994",
+    "gnis:feature_id": "309411",
+    "gnis:feature_type": "Airport",
+    "name": "Strayhorn Ranch Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 369138721,
+  "lat": 26.6429712,
+  "lon": -81.7080039,
+  "tags": {
+    "addr:state": "FL",
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "designation": "FL59",
+    "ele": "6",
+    "faa": "FL59",
+    "gnis:feature_id": "309424",
+    "name": "Buckingham Field",
+    "name:old": "Buckingham Army Airfield",
+    "ref": "FL59",
+    "wikidata": "Q3887276",
+    "wikipedia": "en:Buckingham Field"
+  }
+},
+{
+  "type": "node",
+  "id": 369139265,
+  "lat": 28.7169401,
+  "lon": -81.2328428,
+  "tags": {
+    "addr:state": "FL",
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "ele": "0",
+    "gnis:county_name": "Seminole",
+    "gnis:created": "08/01/1994",
+    "gnis:feature_id": "309793",
+    "gnis:feature_type": "Airport",
+    "name": "Lake Jesup Seaplane Base"
+  }
+},
+{
+  "type": "node",
+  "id": 369148531,
+  "lat": 47.0491000,
+  "lon": -109.4668000,
+  "tags": {
+    "addr:state": "MT",
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "closest_town": "Lewistown, Montana",
+    "faa": "LWT",
+    "gnis:feature_id": "806466",
+    "iata": "LWT",
+    "icao": "KLWT",
+    "name": "Lewistown Municipal Airport",
+    "operator": "Fergus County, Montana",
+    "wikidata": "Q6537435",
+    "wikipedia": "en:Lewistown Municipal Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 369158932,
+  "lat": 36.4466868,
+  "lon": -103.1499534,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "alt_name": "Clayton Municipal Airport",
+    "closest_town": "Clayton, New Mexico",
+    "faa": "CAO",
+    "gnis:feature_id": "936922",
+    "iata": "CAO",
+    "icao": "KCAO",
+    "name": "Clayton Municipal Airpark",
+    "operator": "Town of Clayton",
+    "source": "wikipedia",
+    "wikidata": "Q1657089",
+    "wikipedia": "en:Clayton Municipal Airpark"
+  }
+},
+{
+  "type": "node",
+  "id": 369158983,
+  "lat": 36.7393678,
+  "lon": -108.2287934,
+  "tags": {
+    "addr:state": "NM",
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "closest_town": "Farmington, New Mexico",
+    "faa": "FMN",
+    "gnis:feature_id": "936950",
+    "iata": "FMN",
+    "icao": "KFMN",
+    "name": "Four Corners Regional Airport",
+    "operator": "City of Farmington",
+    "wikidata": "Q3545566",
+    "wikipedia": "en:Four Corners Regional Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 369179652,
+  "lat": 39.7078055,
+  "lon": -104.7582860,
+  "tags": {
+    "addr:state": "CO",
+    "aerodrome": "military",
+    "aeroway": "aerodrome",
+    "closest_town": "Aurora, Colorado",
+    "faa": "BKF",
+    "gnis:feature_id": "204252",
+    "gnis:feature_type": "Airport",
+    "iata": "BFK",
+    "icao": "KBKF",
+    "name": "Buckley Air Force Base",
+    "name_1": "Buckley Air National Guard Base",
+    "old_name": "Buckley Air National Guard Base",
+    "operator": "USAF",
+    "ref": "BKF",
+    "source": "FAA",
+    "wikidata": "Q3499338",
+    "wikipedia": "en:Buckley Air Force Base"
+  }
+},
+{
+  "type": "node",
+  "id": 408318900,
+  "lat": 7.5113368,
+  "lon": 99.6153890,
+  "tags": {
+    "aerodrome": "domestic",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "closest_town": "Trang",
+    "ele": "20",
+    "iata": "TST",
+    "icao": "VTST",
+    "name": "ท่าอากาศยานตรัง",
+    "name:en": "Trang Airport",
+    "name:th": "ท่าอากาศยานตรัง",
+    "operator": "Department of Civil Aviation",
+    "source": "wikipedia",
+    "wikidata": "Q60484",
+    "wikipedia": "en:Trang Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 408727273,
+  "lat": 6.3548348,
+  "lon": 2.3826283,
+  "tags": {
+    "aerodrome": "international",
+    "aerodrome:type": "civil",
+    "aeroway": "aerodrome",
+    "closest_town": "Cotonou",
+    "ele": "6",
+    "iata": "COO",
+    "icao": "DBBB",
+    "is_in": "Cotonou / Porto-Novo,,Benin",
+    "name": "Aéroport Cadjehoun",
+    "name:en": "Cadjehoun Airport",
+    "name:pl": "Port lotniczy Kotonu",
+    "source": "Gagravarr_Airports",
+    "wikidata": "Q856939",
+    "wikipedia": "fr:Aéroport international de Cotonou"
+  }
+},
+{
+  "type": "node",
+  "id": 410026407,
+  "lat": 67.8213889,
+  "lon": 20.3355556,
+  "tags": {
+    "aerodrome": "domestic",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "closest_town": "Kiruna",
+    "ele": "460",
+    "iata": "KRN",
+    "icao": "ESNQ",
+    "international_flights": "yes",
+    "name": "Kiruna Airport",
+    "note": "Elevation/Reference temperature: 1509 ft/+16.5°C",
+    "operator": "Swedavia",
+    "passengers": "257 561",
+    "source": "LFV AIP; wikipedia",
+    "wikidata": "Q1431740",
+    "wikipedia": "en:Kiruna Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 410801166,
+  "lat": -32.2407078,
+  "lon": 115.6842559,
+  "tags": {
+    "aerodrome": "continental",
+    "aerodrome:type": "military",
+    "aeroway": "aerodrome",
+    "alt_name": "Fleet Base West",
+    "closest_town": "Rockingham, Western Australia",
+    "ele": "10",
+    "icao": "YGAD",
+    "name": "HMAS Stirling",
+    "operator": "Royal Australian Navy",
+    "wikidata": "Q2886657",
+    "wikipedia": "en:HMAS Stirling"
+  }
+},
+{
+  "type": "node",
+  "id": 414036168,
+  "lat": 52.4973211,
+  "lon": 1.0534876,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "ele": "59",
+    "icao": "EGSV",
+    "is_in": "Norwich",
+    "name": "Old Buckenham Airport",
+    "operator": "Touchdown Aero Centre Limited",
+    "source": "wikipedia",
+    "url": "http://www.oldbuck.com/",
+    "wikidata": "Q3914724",
+    "wikipedia": "en:Old Buckenham Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 414037939,
+  "lat": 52.5110625,
+  "lon": 1.4174085,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "ele": "40",
+    "icao": "EGSJ",
+    "is_in": "Norwich",
+    "name": "Seething Airfield",
+    "operator": "Wingtask 95 Ltd",
+    "source": "wikipedia",
+    "wikidata": "Q3912595",
+    "wikipedia": "en:Seething Airfield"
+  }
+},
+{
+  "type": "node",
+  "id": 418987311,
+  "lat": 50.2786000,
+  "lon": -5.1425000,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "ele": "122",
+    "icao": "EGHY",
+    "is_in": "Truro",
+    "name": "Truro Aerodrome",
+    "operator": "Truro Aerodrome Ltd",
+    "source": "wikipedia",
+    "wikidata": "Q3914589",
+    "wikipedia": "en:Truro Aerodrome"
+  }
+},
+{
+  "type": "node",
+  "id": 418987312,
+  "lat": 50.3312581,
+  "lon": -5.1783579,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "ele": "101",
+    "icao": "EGTP",
+    "is_in": "Perranporth",
+    "name": "Perranporth Airfield",
+    "operator": "Perranporth Airfield Ltd",
+    "source": "wikipedia",
+    "wikidata": "Q3912942",
+    "wikipedia": "en:Perranporth Airfield"
+  }
+},
+{
+  "type": "node",
+  "id": 427515541,
+  "lat": 50.5690894,
+  "lon": 4.4350763,
+  "tags": {
+    "aerodrome": "airsport",
+    "aerodrome:type": "private",
+    "aeroway": "aerodrome",
+    "icao": "EBBY",
+    "name": "ULM Baisy-Thy",
+    "ref": "EBBY",
+    "sport": "ultralight aviation"
+  }
+},
+{
+  "type": "node",
+  "id": 427515542,
+  "lat": 50.5437008,
+  "lon": 4.3805626,
+  "tags": {
+    "aerodrome": "airsport",
+    "aerodrome:type": "private",
+    "aeroway": "aerodrome",
+    "alt_name": "Aéroclub de Buzet",
+    "icao": "EBBZ",
+    "name": "ULM Confluence"
+  }
+},
+{
+  "type": "node",
+  "id": 430047853,
+  "lat": -27.0495502,
+  "lon": 151.2741700,
+  "tags": {
+    "aerodrome": "airfield",
+    "aeroway": "aerodrome",
+    "name": "George Lees Airfield"
+  }
+},
+{
+  "type": "node",
+  "id": 497784562,
+  "lat": 60.2861111,
+  "lon": 17.4294444,
+  "tags": {
+    "aerodrome": "club",
+    "aeroway": "aerodrome",
+    "icao": "ESKG",
+    "name": "Stockholms Fallskärmsklubb",
+    "sport": "skydiving",
+    "type": "club",
+    "website": "www.skydive.se",
+    "wikidata": "Q10680581",
+    "wikipedia": "sv:Stockholms Fallskärmsklubb"
+  }
+},
+{
+  "type": "node",
+  "id": 540704419,
+  "lat": 45.5612008,
+  "lon": 9.1050250,
+  "tags": {
+    "aerodrome": "model",
+    "name": "Campo di Aeromodellismo",
+    "sport": "model_aerodrome"
+  }
+},
+{
+  "type": "node",
+  "id": 683420174,
+  "lat": 56.1029922,
+  "lon": 8.5146930,
+  "tags": {
+    "aerodrome": "airsport",
+    "aeroway": "aerodrome",
+    "icao": "EKSD",
+    "int_name": "Spjald Airfield",
+    "name": "Spjald Flyveplads",
+    "wikidata": "Q12695088"
+  }
+},
+{
+  "type": "node",
+  "id": 793242686,
+  "lat": 18.6101404,
+  "lon": 73.3783327,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "name": "Aamby Valley Airfield"
+  }
+},
+{
+  "type": "node",
+  "id": 793242699,
+  "lat": 23.8462861,
+  "lon": 90.4021500,
+  "tags": {
+    "aerodrome": "international",
+    "aeroway": "aerodrome",
+    "iata": "DAC",
+    "icao": "VGHS",
+    "name": "Hazrat Shahjalal International Airport (DAC)",
+    "old_name": "Zia International Airport",
+    "ref": "DAC"
+  }
+},
+{
+  "type": "node",
+  "id": 798254629,
+  "lat": 20.5274040,
+  "lon": 81.0806071,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "name": "Dondi Airstrip"
+  }
+},
+{
+  "type": "node",
+  "id": 798360335,
+  "lat": 23.2356901,
+  "lon": 81.5022906,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "name": "Burhar Airstrip"
+  }
+},
+{
+  "type": "node",
+  "id": 832642707,
+  "lat": -8.9568555,
+  "lon": -72.7821589,
+  "tags": {
+    "addr:city": "Marechal Thaumaturgo",
+    "addr:state": "AC",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "229",
+    "icao": "SSMH",
+    "name": "Marechal Thaumaturgo",
+    "source": "http://www.anac.gov.br/",
+    "source:date": "2015-11-16"
+  }
+},
+{
+  "type": "node",
+  "id": 974605589,
+  "lat": 0.1285650,
+  "lon": 35.2172195,
+  "tags": {
+    "aerodrome": "regional",
+    "aeroway": "aerodrome",
+    "is_in": "Kapsumbeiwa Nandi",
+    "kenyan_airport_code": "KE-6888",
+    "name": "Kapsumbeiwa Nandi Airport",
+    "source": "http://www.ourairports.com/data/ (Public Domain)"
+  }
+},
+{
+  "type": "node",
+  "id": 997178134,
+  "lat": 8.5400110,
+  "lon": 99.9403081,
+  "tags": {
+    "aerodrome": "domestic",
+    "iata": "NST",
+    "icao": "VTSF",
+    "name": "ท่าอากาศยานนครศรีธรรมราช",
+    "name:en": "Nakhon Si Thammarat Airport",
+    "name:th": "ท่าอากาศยานนครศรีธรรมราช",
+    "passengers": "555000",
+    "wikidata": "Q1388166",
+    "wikipedia": "th:ท่าอากาศยานนครศรีธรรมราช"
+  }
+},
+{
+  "type": "node",
+  "id": 1042029666,
+  "lat": 45.3768005,
+  "lon": -73.9052750,
+  "tags": {
+    "aerodrome": "private",
+    "aerodrome:type": "private",
+    "aeroway": "aerodrome",
+    "name": "Aéroparc Île Perrot - CSP6",
+    "operator": "Private",
+    "ref": "CSP6",
+    "source": "ourairports.com",
+    "wikidata": "Q3612846",
+    "wikipedia": "en:Montréal/Aéroparc Île Perrot"
+  }
+},
+{
+  "type": "node",
+  "id": 1042032084,
+  "lat": 51.5755577,
+  "lon": 14.1369438,
+  "tags": {
+    "aerodrome": "regional",
+    "aeroway": "aerodrome",
+    "ele": "114m / 375ft",
+    "icao": "EDCY",
+    "name": "Spremberg-Welzow Airport",
+    "name:dsb": "Lětanišćo Grodk-Wjelcej",
+    "name:hsb": "Lětanišćo Grodk-Wjelcej",
+    "source": "ourairports.com",
+    "website": "http://www.flugplatz-welzow.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1042032383,
+  "lat": 51.6061944,
+  "lon": 13.7431650,
+  "tags": {
+    "aerodrome": "regional",
+    "aerodrome:type": "private",
+    "aeroway": "aerodrome",
+    "ele": "117",
+    "icao": "EDUS",
+    "name": "Lausitzflugplatz Finsterwalde/Schacksdorf",
+    "name:en": "Finsterwalde/Schacksdorf Airport",
+    "source": "ourairports.com",
+    "website": "http://www.lausitzflugplatz.de/",
+    "wikidata": "Q1808531",
+    "wikipedia": "de:Lausitzflugplatz Finsterwalde/Schacksdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 1042032426,
+  "lat": 62.2540873,
+  "lon": 24.3504348,
+  "tags": {
+    "aerodrome": "disused",
+    "aeroway": "aerodrome",
+    "closed": "yes",
+    "icao": "EFHI",
+    "name": "Haapamäen ent. Lentokenttä",
+    "name:en": "Haapamäki Airfield, no longer in use",
+    "name:fi": "Haapamäen ent. Lentokenttä",
+    "note": "It might be dangerous for smaller aircraft to land on the runway since it is covered with scrub and it is no longer in use",
+    "source": "www.lentopaikat.net/efhi.shtml"
+  }
+},
+{
+  "type": "node",
+  "id": 1042032553,
+  "lat": 65.9759714,
+  "lon": 26.3649606,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "icao": "EFRU",
+    "name": "Ranua Airfield",
+    "name:fi": "Ranuan lentokenttä",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042032588,
+  "lat": 63.1220824,
+  "lon": 25.8099671,
+  "tags": {
+    "aerodrome": "disused",
+    "aeroway": "aerodrome",
+    "ele": "361' AMSL",
+    "icao": "EFVI",
+    "name": "Viitasaaren lentopaikka",
+    "name:en": "Viitasaari Airport",
+    "name:fi": "Viitasaaren lentopaikka",
+    "note": "Planes are forbidden to land here. This aerodrome is closed until futher notice."
+  }
+},
+{
+  "type": "node",
+  "id": 1042032799,
+  "lat": 60.7466422,
+  "lon": -0.8533715,
+  "tags": {
+    "aerodrome": "public",
+    "alt_name": "Baltisound Airfield",
+    "disused": "yes",
+    "disused:aeroway": "aerodrome",
+    "iata": "UNT",
+    "icao": "EGPW",
+    "ifr": "no",
+    "name": "Unst Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042032811,
+  "lat": 55.0602989,
+  "lon": -7.0202799,
+  "tags": {
+    "aerodrome": "military",
+    "aerodrome:type": "military",
+    "aeroway": "aerodrome",
+    "iata": "BOL",
+    "icao": "EGQB",
+    "name": "Ballykelly Airport",
+    "source": "ourairports.com",
+    "source:icao": "http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 1042033559,
+  "lat": 59.2980995,
+  "lon": 9.1327295,
+  "tags": {
+    "aerodrome": "airfield",
+    "aeroway": "aerodrome",
+    "icao": "ENLU",
+    "name": "Lunde flystripe Nome",
+    "name:en": "Lunde Nome Airfield",
+    "operator": "Lunde flyklubb"
+  }
+},
+{
+  "type": "node",
+  "id": 1042034100,
+  "lat": 58.1700000,
+  "lon": 13.5877778,
+  "tags": {
+    "aerodrome": "private",
+    "aerodrome:type": "private",
+    "aeroway": "aerodrome",
+    "description": "Flygplatsen är avsedd för affärs- och klubbflygplan.",
+    "description:en": "Small civil airport for business and club aircraft. No scheduled flights.",
+    "icao": "ESGK",
+    "name": "Falköpings flygplats",
+    "name:en": "Falköping Airport",
+    "operator": "Kinnarps AB",
+    "owner": "Falköpings kommun",
+    "source": "ourairports.com",
+    "website": "www.falkoping.se",
+    "wikidata": "Q2648429",
+    "wikipedia": "sv:Falköpings flygplats"
+  }
+},
+{
+  "type": "node",
+  "id": 1042034108,
+  "lat": 58.5138016,
+  "lon": 14.5071001,
+  "tags": {
+    "aerodrome": "military",
+    "aerodrome:type": "military",
+    "aeroway": "aerodrome",
+    "icao": "ESIA",
+    "name": "Karlsborgs flygplats",
+    "name:en": "Karlsborg Air Base",
+    "operator": "Fortifikationsverket",
+    "source": "ourairports.com",
+    "wikidata": "Q10543817",
+    "wikipedia": "sv:Karlsborgs flygplats",
+    "wikipedia:en": "F 6 Karlsborg"
+  }
+},
+{
+  "type": "node",
+  "id": 1042034110,
+  "lat": 60.1328011,
+  "lon": 18.1049004,
+  "tags": {
+    "aerodrome": "club",
+    "aeroway": "aerodrome",
+    "alt_name": "49",
+    "description:en": "Former small military airport. 800m of former 2km runway still available for occassional aircraft use.",
+    "icao": "ESKA",
+    "name": "Lunda Flygfält",
+    "old_name": "Gimo Air Base",
+    "operator": "Alliansen för Lunda Flygfält",
+    "source": "ourairports.com",
+    "start_date": "1960",
+    "type": "club",
+    "website": "www.lundaalliansen.se",
+    "wikidata": "Q3274268",
+    "wikipedia": "en:Gimo Air Base"
+  }
+},
+{
+  "type": "node",
+  "id": 1042034112,
+  "lat": 59.9227778,
+  "lon": 17.5366667,
+  "tags": {
+    "aerodrome": "club",
+    "aeroway": "aerodrome",
+    "description:en": "Former military airfield now a club field for light and model aircraft.",
+    "icao": "ESKC",
+    "name": "Sundbro flygfält",
+    "name:en": "Sundbro Airfield",
+    "old_name": "Uppsala-Sundbro flygplats",
+    "operator": "Uppsala Flygklubb",
+    "source": "ourairports.com",
+    "type": "club",
+    "website": "www.uppsalaflygklubb.se",
+    "wikidata": "Q10710203",
+    "wikipedia": "sv:Uppsala-Sundbro flygplats"
+  }
+},
+{
+  "type": "node",
+  "id": 1042034132,
+  "lat": 57.1686111,
+  "lon": 13.4400000,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "icao": "ESMY",
+    "name": "Smålandsstenar flygfält",
+    "name:en": "Smålandsstenar Airfield",
+    "operator": "AB Varmförzinkning"
+  }
+},
+{
+  "type": "node",
+  "id": 1042034799,
+  "lat": 28.2862066,
+  "lon": -82.6371625,
+  "tags": {
+    "addr:city": "New Port Richey",
+    "addr:housenumber": "8901",
+    "addr:postcode": "34654",
+    "addr:street": "Airway Boulevard",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "faa": "FA40",
+    "name": "Hidden Lake Airport",
+    "operator": "Airport Investors, Inc.",
+    "website": "http://www.hiddenlake.net/",
+    "wikidata": "Q3274774",
+    "wikipedia": "en:Hidden Lake Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 1042035219,
+  "lat": -30.4918373,
+  "lon": 21.1220784,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "icao": "FAFG",
+    "name": "Flamingo Vlei Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037248,
+  "lat": 42.9000015,
+  "lon": 1.2750000,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "local_ref": "LF0921",
+    "name": "Altisurface d'Aleu"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037253,
+  "lat": 42.8630562,
+  "lon": 0.5152780,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de Cires",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037254,
+  "lat": 42.7847214,
+  "lon": 0.5450000,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de Cap De Pouy",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037257,
+  "lat": 44.3151489,
+  "lon": 6.0724831,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de Clamensane",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037258,
+  "lat": 46.0780922,
+  "lon": 4.5457702,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de La Croix-Rozier",
+    "name:en": "Claveisolles Airport",
+    "source": "ourairports.com, BEA, Bing Aerial Image"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037259,
+  "lat": 42.6541672,
+  "lon": 2.0388889,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Clos de Legua",
+    "name:en": "Clos De Legua Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037260,
+  "lat": 45.1666679,
+  "lon": 5.9875002,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Col de Belledonne",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037261,
+  "lat": 46.0208321,
+  "lon": 6.4499998,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Col de Cenise",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037263,
+  "lat": 42.6657032,
+  "lon": 2.1647135,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Col de la Marrano",
+    "name:en": "Col de la Marrane Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037264,
+  "lat": 45.0875015,
+  "lon": 6.1458330,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Col de Sarenne",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037267,
+  "lat": 42.6083336,
+  "lon": 2.0111110,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Coste del Palm",
+    "name:en": "Coste Del Palm Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037268,
+  "lat": 42.7625008,
+  "lon": 0.0222220,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de Coumely",
+    "name:en": "Coumely Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037270,
+  "lat": 44.9986115,
+  "lon": 6.2458329,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface Dôme de la Lauze",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037271,
+  "lat": 42.8883324,
+  "lon": 0.4988890,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de Ferrère Batmale",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037272,
+  "lat": 45.9416656,
+  "lon": 7.0000000,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Glacier d'Argentière",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037273,
+  "lat": 45.1605568,
+  "lon": 6.1388888,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Glacier de la Barbarate",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037274,
+  "lat": 45.4916687,
+  "lon": 6.7750001,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Glacier de la Chiaupe",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037275,
+  "lat": 45.4249992,
+  "lon": 6.8944440,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Glacier de la Grande Motte",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037276,
+  "lat": 45.1624985,
+  "lon": 6.1666670,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Glacier de l'Étendard",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037277,
+  "lat": 45.9083328,
+  "lon": 6.9833331,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Glacier de Talèfre",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037278,
+  "lat": 45.8458328,
+  "lon": 6.8499999,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Dôme du Goûter",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037279,
+  "lat": 45.8916664,
+  "lon": 6.9375000,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Glacier du Tacul",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037280,
+  "lat": 45.9833336,
+  "lon": 7.0000000,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "local_ref": "LF7426",
+    "name": "Altisurface du Glacier du Tour"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037281,
+  "lat": 45.1083336,
+  "lon": 6.3222222,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface du Glacier Lombard",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037283,
+  "lat": 42.9938703,
+  "lon": -0.0125690,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "ele": "1682",
+    "local_ref": "LF6529",
+    "name": "Altisurface d'Hautacam",
+    "phone": "+33562932216",
+    "source": "http://www.navigeo.org/LF6529"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037284,
+  "lat": 42.4777794,
+  "lon": 2.0472219,
+  "tags": {
+    "aerodrome": "mountain field",
+    "aeroway": "aerodrome",
+    "name": "Altisurface Hippopotame",
+    "name:en": "Hippopotame Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037285,
+  "lat": 42.8372231,
+  "lon": 0.5022220,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "altisurface de Honteyde",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037288,
+  "lat": 45.3891147,
+  "lon": 4.5790909,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de la Jasserie",
+    "name:en": "La Jasserie Airport",
+    "ref": "LF4222",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037289,
+  "lat": 42.8666687,
+  "lon": 1.1383330,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de la Plagne-Bouirex",
+    "name:en": "La Plagne Bouirex Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037292,
+  "lat": 44.8911490,
+  "lon": 2.9563225,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de la Taillade",
+    "name:en": "La Taillade Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037293,
+  "lat": 47.9166679,
+  "lon": 6.8305720,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "local_ref": "LF8821",
+    "name": "Altisurface de la Tête des Champs - le Menil",
+    "name:en": "La Tete Des Champs Le Menil Airport",
+    "source": "http://basulm.ffplum.info/index.php?option=com_fabrik&view=details&formid=16&rowid=8819&Itemid=27"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037301,
+  "lat": 42.7927780,
+  "lon": 0.4625000,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de Pene de Soulit",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037303,
+  "lat": 45.2407317,
+  "lon": 6.2136533,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de la Pointe de l'Ouillon",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037305,
+  "lat": 42.8939843,
+  "lon": 0.2988429,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface Quatre Veziaux",
+    "name:en": "Quatre Veziaux Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037307,
+  "lat": 44.1397209,
+  "lon": 6.5483332,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de Thorame-Haute Chamatte",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037308,
+  "lat": 44.1230545,
+  "lon": 6.5599999,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de Thorame-Haute Les Serres",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037309,
+  "lat": 44.1150017,
+  "lon": 6.5386109,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de Thorame-Haute Les Serres 2",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037312,
+  "lat": 42.8519440,
+  "lon": 0.8488890,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "description:en": "Airfield usable snow-covered only",
+    "description:fr": "Alti-surface utilisable qu'enneigée",
+    "ele": "2002",
+    "local_ref": "LF3130",
+    "name": "Altisurface Uls Melles"
+  }
+},
+{
+  "type": "node",
+  "id": 1042037374,
+  "lat": 45.4505577,
+  "lon": 6.8833332,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface vers le Col du Palet",
+    "name:en": "Vers Le Col Du Palet Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042039045,
+  "lat": -22.5068516,
+  "lon": 18.9687730,
+  "tags": {
+    "aerodrome": "regional",
+    "aeroway": "aerodrome",
+    "ele": "1441",
+    "iata": "GOG",
+    "icao": "FYGB",
+    "name": "Gobabis Airport",
+    "phone": "(061)239850",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042040882,
+  "lat": 16.2529123,
+  "lon": -0.0025397,
+  "tags": {
+    "aerodrome": "international",
+    "aeroway": "aerodrome",
+    "alt_name": "Aéroport de Gao",
+    "ele": "265",
+    "iata": "GAQ",
+    "icao": "GAGO",
+    "name": "Aéroport international de Gao Korogoussou",
+    "name:ar": "مطار غاو",
+    "name:en": "Gao Airport",
+    "operator": "Aéroports du Mali",
+    "source": "ourairports.com",
+    "type": "mixte",
+    "wikidata": "Q3083185",
+    "wikipedia": "fr:Aéroport international de Gao Korogoussou"
+  }
+},
+{
+  "type": "node",
+  "id": 1042041871,
+  "lat": 38.6137021,
+  "lon": 21.3929834,
+  "tags": {
+    "aerodrome": "airport",
+    "aeroway": "aerodrome",
+    "name": "Dhokimion Airport",
+    "operator": "Αερολέσχη Αγρινίου",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042044811,
+  "lat": -3.9166670,
+  "lon": 139.2500000,
+  "tags": {
+    "aerodrome": "regional",
+    "aeroway": "aerodrome",
+    "iata": "AAS",
+    "name": "Bandar Udara Apalapsili",
+    "source": "ourairports.com",
+    "surface": "ground"
+  }
+},
+{
+  "type": "node",
+  "id": 1042045901,
+  "lat": 32.6991997,
+  "lon": -117.2149963,
+  "tags": {
+    "aerodrome": "military",
+    "aeroway": "aerodrome",
+    "iata": "NZY",
+    "icao": "KNZY",
+    "name": "North Island Naval Air Station-Halsey Field",
+    "operator": "United States Navy",
+    "source:name": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042046880,
+  "lat": 40.5331001,
+  "lon": 23.0252991,
+  "tags": {
+    "aerodrome": "military",
+    "aeroway": "aerodrome",
+    "alt_name": "Αεροδρόμιο Σέδες",
+    "icao": "LGSD",
+    "int_name": "Sedes Airport",
+    "is_in": "GR",
+    "name": "Αεροπορική Βάση Σέδες",
+    "wikidata": "Q7445211",
+    "wikipedia": "en:Sedes Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 1042047755,
+  "lat": 46.5340996,
+  "lon": 9.8841105,
+  "tags": {
+    "aerodrome": "regional",
+    "aeroway": "aerodrome",
+    "alt_name": "Flugplatz Samedan",
+    "iata": "SMV",
+    "icao": "LSZS",
+    "name": "Engadin Airport",
+    "passengers": "22000",
+    "source": "ourairports.com",
+    "wikidata": "Q687436",
+    "wikipedia": "de:Flughafen Engadin"
+  }
+},
+{
+  "type": "node",
+  "id": 1042048139,
+  "lat": 24.4183006,
+  "lon": -104.8860016,
+  "tags": {
+    "aerodrome": "regional",
+    "aeroway": "aerodrome",
+    "name": "Rancho El Durangueno Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042049988,
+  "lat": 58.6046959,
+  "lon": 7.8112389,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "name": "Evje flystripe",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042049999,
+  "lat": 58.9397809,
+  "lon": 7.6936001,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "name": "Ose flystripe",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042051987,
+  "lat": 35.7761002,
+  "lon": 50.8266982,
+  "tags": {
+    "addr:city": "کرج",
+    "aerodrome": "regional",
+    "aeroway": "aerodrome",
+    "name": "فرودگاه پیام",
+    "name:en": "Payam Airport",
+    "nat_name": "فرودگاه کرج",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042052715,
+  "lat": 17.0387001,
+  "lon": 54.0913010,
+  "tags": {
+    "aerodrome": "international",
+    "aeroway": "aerodrome",
+    "iata": "SLL",
+    "icao": "OOSA",
+    "name": "Salalah Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042055035,
+  "lat": 1.9840166,
+  "lon": -157.3555272,
+  "tags": {
+    "aerodrome": "international",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "ele": "2",
+    "iata": "CXI",
+    "icao": "PLCH",
+    "name": "Cassidy International Airport",
+    "name:en": "Cassidy International Airport",
+    "name:zh": "卡西迪国际机场",
+    "operator": "government",
+    "source": "ourairports.com",
+    "wikidata": "Q1431055",
+    "wikipedia": "en:Cassidy International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 1042056679,
+  "lat": 14.4954004,
+  "lon": 120.9039993,
+  "tags": {
+    "aerodrome": "military",
+    "aerodrome:type": "military",
+    "aeroway": "aerodrome",
+    "alt_name": "Sangley Point Air Base",
+    "iata": "SGL",
+    "name": "Major Danilo Atienza Air Base",
+    "note": "Military Air Base",
+    "old_name": "Naval Station Sangley Point",
+    "ref": "RPLS",
+    "wikidata": "Q2231994",
+    "wikipedia": "en:Naval Station Sangley Point"
+  }
+},
+{
+  "type": "node",
+  "id": 1042060569,
+  "lat": -22.9293174,
+  "lon": -43.7165494,
+  "tags": {
+    "aerodrome": "military",
+    "aerodrome:type": "military",
+    "aeroway": "aerodrome",
+    "ele": "3",
+    "iata": "SNZ",
+    "icao": "SBSC",
+    "military": "airfield",
+    "name": "Santa Cruz"
+  }
+},
+{
+  "type": "node",
+  "id": 1042061941,
+  "lat": -31.5742306,
+  "lon": -71.1096634,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "closest_town": "Illapel",
+    "ele": "433",
+    "icao": "SCIL",
+    "name": "Aeródromo Aucó",
+    "operator": "Héctor Hevia M.",
+    "phone": "+56532521248",
+    "source": "DGAC",
+    "source:date": "2015",
+    "source_ref": "AIP AD 3.9-9.1-I"
+  }
+},
+{
+  "type": "node",
+  "id": 1042063681,
+  "lat": -22.5571008,
+  "lon": -42.1108918,
+  "tags": {
+    "addr:city": "Casimiro de Abreu",
+    "addr:state": "RJ",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "icao": "SDCU",
+    "name": "Brigadeiro Francisco Pinto de Moura",
+    "source": "http://www2.anac.gov.br/biblioteca/portarias/PA2009-1667.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 1042064481,
+  "lat": -22.5989856,
+  "lon": -42.0282195,
+  "tags": {
+    "addr:city": "Cabo Frio",
+    "addr:state": "RJ",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "3",
+    "icao": "SSTY",
+    "name": "Fazenda Tosana",
+    "source": "http://www2.anac.gov.br/biblioteca/portarias/2013/PA2013-2636.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 1042065637,
+  "lat": -27.1735716,
+  "lon": -48.6311996,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "icao": "SDYS",
+    "name": "Aeroporto Aeroportobelo",
+    "name:en": "Aeroportobelo Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 1042069662,
+  "lat": -27.2127720,
+  "lon": -50.9564807,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "icao": "SIWE",
+    "name": "Aeroporto Nelson Pizzani",
+    "name:en": "Nelson Pizzani Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042072334,
+  "lat": -27.3704065,
+  "lon": -48.6123119,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "10",
+    "icao": "SJSH",
+    "name": "Aeroporto Sonhar",
+    "name:en": "Sonhar Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 1042078676,
+  "lat": -6.5415608,
+  "lon": -36.7321002,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "fixme": "Active? Is it military too?",
+    "icao": "SNJS",
+    "name": "Aeródromo Jardim do Seridó",
+    "operator": "Segundo Comando Aéreo Regional",
+    "source": "www.anac.gov.br"
+  }
+},
+{
+  "type": "node",
+  "id": 1042080316,
+  "lat": -5.3841400,
+  "lon": -35.5284004,
+  "tags": {
+    "aerodrome": "military",
+    "aeroway": "aerodrome",
+    "icao": "SNXX",
+    "name": "Aeródromo Maxaranguape"
+  }
+},
+{
+  "type": "node",
+  "id": 1042082758,
+  "lat": -26.7774949,
+  "lon": -53.5051191,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "alt_name": "Aeroporto Hélio Wasum",
+    "iata": "SQX",
+    "icao": "SSOE",
+    "name": "Aeroporto de São Miguel do Oeste",
+    "operator": "Prefeitura Municipal de São Miguel do Oeste",
+    "wikidata": "Q12694886",
+    "wikipedia": "pt:Aeroporto de São Miguel do Oeste"
+  }
+},
+{
+  "type": "node",
+  "id": 1042083047,
+  "lat": -9.5137235,
+  "lon": -43.0040025,
+  "tags": {
+    "addr:city": "Campo Alegre de Lourdes",
+    "addr:postcode": "47220-000",
+    "addr:street": "Rua Primeiro de Janeiro",
+    "addr:suburb": "Centro",
+    "aerodrome": "Regional",
+    "aerodrome:type": "military/public",
+    "aeroway": "aerodrome",
+    "ele": "462",
+    "icao": "SSRK",
+    "is_in": "Campo Alegre de Lourdes",
+    "is_in:iso_3166_2": "BR-BA",
+    "is_in:municipality": "Campo Alegre de Lourdes",
+    "is_in:region": "Nordeste",
+    "is_in:state": "Bahia",
+    "name": "Aeroporto Regional de Campo Alegre de Lourdes",
+    "short_name": "CAL Aiport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042083173,
+  "lat": -26.1300176,
+  "lon": -50.3098912,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "icao": "SSTB",
+    "name": "Aeroporto de Três Barras",
+    "name:en": "Três Barras Airport",
+    "wikidata": "Q9586620",
+    "wikipedia": "pt:Aeroporto de Três Barras"
+  }
+},
+{
+  "type": "node",
+  "id": 1042083196,
+  "lat": -27.3484932,
+  "lon": -49.8213217,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "icao": "SSTJ",
+    "name": "Aeroporto Walter Ewaldo Siegel",
+    "name:en": "Walter Ewaldo Siegel Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 1042087713,
+  "lat": -15.0833330,
+  "lon": -56.5527763,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "icao": "SJOP",
+    "name": "Aeródromo Fazenda Panflora",
+    "source": "Rotaer"
+  }
+},
+{
+  "type": "node",
+  "id": 1042093173,
+  "lat": -15.6852565,
+  "lon": 130.0083823,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "iata": "AVG",
+    "name": "Auvergne Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042093428,
+  "lat": -33.4124280,
+  "lon": 149.6524327,
+  "tags": {
+    "aerodrome": "regional",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "iata": "BHS",
+    "icao": "YBTH",
+    "name": "Bathurst Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 1042093670,
+  "lat": -17.3700008,
+  "lon": 123.6610031,
+  "tags": {
+    "aerodrome": "regional",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "ele": "7",
+    "iata": "DRB",
+    "icao": "YDBY",
+    "name": "Derby Airport",
+    "operator": "Shire of Derby/West Kimberley",
+    "wikidata": "Q5261416",
+    "wikipedia": "en:Derby Airport (Australia)"
+  }
+},
+{
+  "type": "node",
+  "id": 1042093928,
+  "lat": -40.5221462,
+  "lon": 144.7413446,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "icao": "YHTR",
+    "name": "Hunter Island Airport",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042094289,
+  "lat": -27.6927757,
+  "lon": 114.2592316,
+  "tags": {
+    "aerodrome": "regional",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "ele": "157 m",
+    "iata": "KAX",
+    "name": "Kalbarri Airport",
+    "source": "ourairports.com",
+    "website": "http://www.northampton.wa.gov.au",
+    "wikidata": "Q4209186",
+    "wikipedia": "en:Kalbarri Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 1042095681,
+  "lat": -34.2635031,
+  "lon": 116.1368076,
+  "tags": {
+    "aerodrome": "regional",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "ele": "287",
+    "iata": "MJP",
+    "icao": "YMJM",
+    "name": "Manjimup Airport",
+    "operator": "Shire of Manjimup",
+    "source": "ourairports.com",
+    "wikidata": "Q6750393",
+    "wikipedia": "en:Manjimup Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 1042096823,
+  "lat": -32.9300003,
+  "lon": 117.0800018,
+  "tags": {
+    "aerodrome": "regional",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "ele": "1080 ft",
+    "iata": "NRG",
+    "icao": "YNRG",
+    "name": "Narrogin Airport",
+    "operator": "Shire Of Narrogin",
+    "source": "ourairports.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1042096998,
+  "lat": -23.4178009,
+  "lon": 119.8030015,
+  "tags": {
+    "aerodrome": "regional",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "ele": "525",
+    "iata": "ZNE",
+    "icao": "YNWN",
+    "name": "Newman Airport",
+    "operator": "Shire of East Pilbara",
+    "ref": "ZNE",
+    "source": "Bing",
+    "wikidata": "Q8215732",
+    "wikipedia": "en:Newman Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 1042097400,
+  "lat": -12.1878723,
+  "lon": 96.8310274,
+  "tags": {
+    "aerodrome": "international",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "ele": "3",
+    "iata": "CCK",
+    "icao": "YPCC",
+    "name": "Cocos (Keeling) Islands Airport",
+    "operator": "Toll Remote Logistics",
+    "passengers": "16000",
+    "source": "ourairports.com",
+    "source:passengers": "Wikipedia",
+    "wikidata": "Q1105469",
+    "wikipedia": "en:Cocos (Keeling) Islands Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 1042098241,
+  "lat": -32.0048689,
+  "lon": 115.5432981,
+  "tags": {
+    "aerodrome": "regional",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "contact:website": "http://www.rottnestisland.com/travel-to/by-air",
+    "ele": "4",
+    "iata": "RTS",
+    "icao": "YRTI",
+    "name": "Rottnest Island Airport",
+    "operator": "Rottnest Island Authority",
+    "wikidata": "Q7370692",
+    "wikipedia": "en:Rottnest Island Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 1154750932,
+  "lat": 27.9362937,
+  "lon": -15.3873002,
+  "tags": {
+    "aerodrome": "international",
+    "aeroway": "aerodrome",
+    "iata": "LPA",
+    "icao": "GCLP",
+    "name": "Aeropuerto de Gran Canaria",
+    "name:ar": "مطار كناريا الكبرى",
+    "name:en": "Gran Canaria Airport",
+    "name:es": "Aeropuerto de Gran Canaria",
+    "ref": "LPA"
+  }
+},
+{
+  "type": "node",
+  "id": 1166656399,
+  "lat": 51.7072042,
+  "lon": 3.7151631,
+  "tags": {
+    "aerodrome": "gliders",
+    "aeroway": "aerodrome",
+    "historic:period": "1930 - 2014",
+    "military:abandoned": "aerodrome",
+    "name": "Vliegveld Haamstede",
+    "operator": "Vliegclub Haamstede"
+  }
+},
+{
+  "type": "node",
+  "id": 1301698973,
+  "lat": 49.5672194,
+  "lon": 8.6111115,
+  "tags": {
+    "aerodrome": "gliding",
+    "aeroway": "aerodrome",
+    "icao": "EDGZ",
+    "name": "Flugplatz Weinheim",
+    "operator": "LSV Weinheim 1932 e. V."
+  }
+},
+{
+  "type": "node",
+  "id": 1327354294,
+  "lat": 25.7834634,
+  "lon": -80.1775503,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "ele": "0",
+    "iata": "MPB",
+    "name": "Miami Seaplane Base",
+    "owner": "City of Miami",
+    "ref": "MPB",
+    "type": "public",
+    "wikidata": "Q3565275",
+    "wikipedia": "en:Miami Seaplane Base"
+  }
+},
+{
+  "type": "node",
+  "id": 1329807787,
+  "lat": 59.4480460,
+  "lon": 18.1362120,
+  "tags": {
+    "aerodrome": "club",
+    "aeroway": "aerodrome",
+    "description": "Seaplane club landing site.",
+    "name": "Täby Sjöflygklubb",
+    "operator": "Täby Sjöflygklubb",
+    "source": "survey",
+    "type": "club",
+    "website": "www.tsk.nu"
+  }
+},
+{
+  "type": "node",
+  "id": 1371025383,
+  "lat": 59.5417862,
+  "lon": 18.0386607,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "name": "Vallentuna flygfält",
+    "operator": "Vallentuna Aviatörförening",
+    "owner": "Lindönäs gård",
+    "type": "private",
+    "website": "www.vallentuna-aviators.se"
+  }
+},
+{
+  "type": "node",
+  "id": 1424245093,
+  "lat": 59.7472222,
+  "lon": 17.1450000,
+  "tags": {
+    "aerodrome": "club",
+    "aeroway": "aerodrome",
+    "description:en": "Home field for the Stockholm Gliding Club (SSFK)",
+    "icao": "ESVL",
+    "name": "Flygfältet Långtora",
+    "operator": "Stockholms Segelflygklubb",
+    "source": "local knowledge",
+    "sport": "gliding",
+    "start_date": "1981",
+    "type": "club",
+    "website": "www.ssfk.se",
+    "wikidata": "Q10572685",
+    "wikipedia": "sv:Långtora flygfält"
+  }
+},
+{
+  "type": "node",
+  "id": 1462335474,
+  "lat": 53.9173051,
+  "lon": 27.7078743,
+  "tags": {
+    "aerodrome": "regional",
+    "aeroway": "aerodrome",
+    "icao": "UMMI",
+    "int_name": "Lipki",
+    "name": "Липки",
+    "name:be": "Ліпкі",
+    "name:ru": "Липки",
+    "ref": "ЬММС"
+  }
+},
+{
+  "type": "node",
+  "id": 1462998890,
+  "lat": 53.6954886,
+  "lon": -6.6540960,
+  "tags": {
+    "aerodrome": "private",
+    "aerodrome:type": "private",
+    "aeroway": "aerodrome",
+    "icao": "EIHH",
+    "name": "Navan Airfield",
+    "surface": "grass",
+    "tower_frequency": "118.125",
+    "type": "private",
+    "website": "www.navanairfield.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1523177090,
+  "lat": 25.6644042,
+  "lon": 55.7742494,
+  "tags": {
+    "aerodrome": "aerosport",
+    "aeroway": "aerodrome",
+    "name": "Aviation Club Al Jazirah",
+    "name:en": "Aviation Club Al Jazirah"
+  }
+},
+{
+  "type": "node",
+  "id": 1537869085,
+  "lat": 48.5568689,
+  "lon": 9.8212052,
+  "tags": {
+    "aerodrome": "gliding",
+    "aeroway": "aerodrome",
+    "alt_name": "Flugplatz Oppingen",
+    "name": "Segelfluggelände Oppingen-Au"
+  }
+},
+{
+  "type": "node",
+  "id": 1682347754,
+  "lat": 47.6730679,
+  "lon": 9.5243796,
+  "tags": {
+    "addr:city": "Friedrichshafen",
+    "addr:country": "DE",
+    "addr:housenumber": "64",
+    "addr:postcode": "88046",
+    "addr:street": "Am Flugplatz",
+    "aerodrome": "regional",
+    "aerodrome:type": "public",
+    "aeroway": "terminal",
+    "alt_name": "Friedrichshafen Airport",
+    "closest_town": "Friedrichshafen",
+    "ele": "414",
+    "iata": "FDH",
+    "icao": "EDNY",
+    "is_in": "DE",
+    "name": "Flughafen Friedrichshafen",
+    "name:de": "Flughafen Friedrichshafen",
+    "name:en": "Friedrichshafen Airport",
+    "name:es": "Aeropuerto de Friedrichshafen",
+    "name:pl": "Port lotniczy Friedrichshafen",
+    "operator": "Flughafen Friedrichshafen GmbH",
+    "passengers": "571000",
+    "phone": "+49 7541 28401",
+    "ref": "FDH",
+    "source": "wikipedia",
+    "wheelchair": "yes",
+    "wikidata": "Q682232",
+    "wikipedia": "en:Friedrichshafen Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 1809842106,
+  "lat": 30.2366904,
+  "lon": 67.0396653,
+  "tags": {
+    "aerodrome": "military",
+    "aeroway": "aerodrome",
+    "military": "airfield",
+    "name": "PAF Khalid Airbase"
+  }
+},
+{
+  "type": "node",
+  "id": 2072479944,
+  "lat": 52.2524294,
+  "lon": 9.0219600,
+  "tags": {
+    "aerodrome": "airport",
+    "aeroway": "aerodrome",
+    "name": "Segelflugplatz LSV Bückeburg"
+  }
+},
+{
+  "type": "node",
+  "id": 2078122866,
+  "lat": 50.0846957,
+  "lon": 19.9886787,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:country": "PL",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "contact:vhf": "135.175 MHz",
+    "description": "ARP",
+    "ele": "223",
+    "email": "info@muzeumlotnictwa.pl",
+    "icao": "EPKC",
+    "name": "Lądowisko Rakowice-Czyżyny",
+    "old_name": "EPKC Kraków-Rakowice-Czyżyny",
+    "operator": "Muzeum Lotnictwa Polskiego",
+    "phone": "+48 12 6409960 ext. 100",
+    "ref": "143",
+    "source": "http://www.pikniklotniczy.krakow.pl/index.php/piknik/dlapilotow",
+    "source_ref": "http://www.ulc.gov.pl/pl/lotniska/rejestr-lotnisk-i-ewidencja-ladowisk",
+    "wikidata": "Q11764628",
+    "wikipedia": "pl:Lądowisko Rakowice-Czyżyny"
+  }
+},
+{
+  "type": "node",
+  "id": 2136037888,
+  "lat": 52.6635094,
+  "lon": 7.9313275,
+  "tags": {
+    "aerodrome": "gliding",
+    "aeroway": "aerodrome",
+    "name": "Luftsportverein Quakenbrück e.V.",
+    "short_name": "LSV Quakenbrück"
+  }
+},
+{
+  "type": "node",
+  "id": 2173258943,
+  "lat": 50.9572712,
+  "lon": -3.5301848,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "name": "Stoodleigh Barton"
+  }
+},
+{
+  "type": "node",
+  "id": 2173414904,
+  "lat": 50.9023839,
+  "lon": -3.0981345,
+  "tags": {
+    "addr:city": "Yarcombe",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "name": "Watchford Farm"
+  }
+},
+{
+  "type": "node",
+  "id": 2174996504,
+  "lat": 52.6039078,
+  "lon": -8.4175884,
+  "tags": {
+    "aerodrome": "private",
+    "aerodrome:type": "private",
+    "aeroway": "aerodrome",
+    "name": "Brittas House",
+    "source": "Bing",
+    "surface": "grass",
+    "type": "private"
+  }
+},
+{
+  "type": "node",
+  "id": 2266122657,
+  "lat": 42.8738456,
+  "lon": -2.3377202,
+  "tags": {
+    "aerodrome": "airsport",
+    "aeroway": "aerodrome",
+    "name": "Aeródromo de Zalduendo",
+    "name:es": "Aeródromo de Zalduendo",
+    "name:eu": "Zalduondoko aerodromoa"
+  }
+},
+{
+  "type": "node",
+  "id": 2567489972,
+  "lat": -31.5422349,
+  "lon": 23.6939344,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "name": "Ratelfontein"
+  }
+},
+{
+  "type": "node",
+  "id": 2649632962,
+  "lat": 55.2219375,
+  "lon": 9.2907749,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "iata": "SKS",
+    "icao": "EKSP",
+    "name": "Vojens Lufthavn",
+    "note": "Deler baner med flyvestationen",
+    "website": "http://vojenslufthavn.dk",
+    "wikidata": "Q4202006",
+    "wikipedia": "en:Vojens Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 2683351366,
+  "lat": 6.2032483,
+  "lon": 160.7050896,
+  "tags": {
+    "aerodrome": "public",
+    "description": "Former US military airstrip completed in 1982; serviced by Caroline Islands Air",
+    "name": "Pingelap",
+    "source": "wikipedia"
+  }
+},
+{
+  "type": "node",
+  "id": 2686109569,
+  "lat": 29.0792889,
+  "lon": -81.0462537,
+  "tags": {
+    "addr:city": "Port Orange",
+    "addr:housenumber": "212-1",
+    "addr:postcode": "32128",
+    "addr:state": "FL",
+    "addr:street": "Cessna Boulevard",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "7",
+    "faa": "7FL6",
+    "gnis:feature_id": "309357",
+    "name": "Spruce Creek Airport",
+    "name:old": "OLF Spruce Creek",
+    "operator": "Spruce Creek Property Owners Association",
+    "website": "http://www.7fl6.com/2008/01/spruce-creek-airport-7fl6.html",
+    "wikidata": "Q7581396",
+    "wikipedia": "en:Spruce Creek Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 2687143381,
+  "lat": -17.5567557,
+  "lon": -149.6114116,
+  "tags": {
+    "aerodrome": "international",
+    "aeroway": "aerodrome",
+    "alt_name": "Papeete Airport",
+    "iata": "PPT",
+    "icao": "NTAA",
+    "name": "Fa'a'ā International Airport",
+    "operator": "SETIL - Aéroports",
+    "source": "Bing",
+    "website": "tahiti-aeroport.pf",
+    "wikidata": "Q1049719",
+    "wikipedia": "en:Faa'a International Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 2705538073,
+  "lat": -31.6707809,
+  "lon": 116.0155522,
+  "tags": {
+    "aerodrome": "continental",
+    "aerodrome:type": "military",
+    "aeroway": "aerodrome",
+    "ele": "46",
+    "icao": "YPEA",
+    "name": "RAAF Base Pearce",
+    "operator": "RAAF",
+    "wikidata": "Q955792",
+    "wikipedia": "en:RAAF Base Pearce"
+  }
+},
+{
+  "type": "node",
+  "id": 2903975880,
+  "lat": 50.7764813,
+  "lon": -3.9040791,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "name": "Taw Mill"
+  }
+},
+{
+  "type": "node",
+  "id": 2973869181,
+  "lat": -27.1663698,
+  "lon": -48.6215934,
+  "tags": {
+    "addr:housename": "Km 156",
+    "addr:street": "Rodovia Governador Mário Covas",
+    "addr:suburb": "Fazenda Santo Antônio",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "alt_name": "Aeroporto Costa Esmeralda",
+    "contact:facebook": "https://www.facebook.com/hangaragemcostaesmeralda",
+    "contact:phone": "+55 47 9909-1833",
+    "contact:twitter": "@hangaragem",
+    "contact:website": "http://hangaragemcostaesmeralda.com.br/",
+    "description": "Condomínio Aeronáutico",
+    "icao": "SDEN",
+    "loc_name": "Hangar 11",
+    "name": "Hangaragem Costa Esmeralda"
+  }
+},
+{
+  "type": "node",
+  "id": 2973869182,
+  "lat": -28.5280556,
+  "lon": -48.9491667,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "icao": "SIEZ",
+    "name": "Aeródromo Asa Branca"
+  }
+},
+{
+  "type": "node",
+  "id": 3226084563,
+  "lat": 13.5422811,
+  "lon": 100.3283203,
+  "tags": {
+    "aerodrome": "airsport",
+    "aeroway": "aerodrome",
+    "name": "Best Ocean Airpark",
+    "type": "private"
+  }
+},
+{
+  "type": "node",
+  "id": 3291405213,
+  "lat": 39.6327601,
+  "lon": -123.1867697,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "name": "Eden Valley Ranch Airstrip"
+  }
+},
+{
+  "type": "node",
+  "id": 3353206662,
+  "lat": -5.2983686,
+  "lon": -35.5348283,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "icao": "SNZO",
+    "name": "Aeródromo Fazenda Bebida Velha"
+  }
+},
+{
+  "type": "node",
+  "id": 3355835102,
+  "lat": -5.6608573,
+  "lon": -35.4146580,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "icao": "SNOG",
+    "name": "Aeródromo de Ceará-Mirim"
+  }
+},
+{
+  "type": "node",
+  "id": 3355993724,
+  "lat": -6.0193879,
+  "lon": -35.2403583,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "icao": "SJBX",
+    "name": "Aeródromo Severino Lopes"
+  }
+},
+{
+  "type": "node",
+  "id": 3364663821,
+  "lat": -6.2793889,
+  "lon": -36.5388454,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "icao": "SNKN",
+    "name": "Aeroporto de Currais Novos"
+  }
+},
+{
+  "type": "node",
+  "id": 3380913093,
+  "lat": 47.5655322,
+  "lon": 12.1278888,
+  "tags": {
+    "aerodrome": "regional",
+    "aeroway": "aerodrome",
+    "contact:phone": "+43 5372 63833",
+    "contact:website": "http://www.fliegerclub-kufstein.at/",
+    "ele": "484",
+    "icao": "LOIK",
+    "name": "Flugplatz Kufstein-Langkampfen",
+    "operator": "Fliegerclub Kufstein-Langkampfen",
+    "twr_freq": "122.375",
+    "wikidata": "Q1433678",
+    "wikipedia": "de:Flugplatz Kufstein-Langkampfen"
+  }
+},
+{
+  "type": "node",
+  "id": 3404343034,
+  "lat": 55.5810364,
+  "lon": 11.7554466,
+  "tags": {
+    "aerodrome": "airsport",
+    "aeroway": "aerodrome",
+    "description": "glider airport",
+    "name": "Tølløse Flyveklub",
+    "source": "Export from addressnode"
+  }
+},
+{
+  "type": "node",
+  "id": 3660922826,
+  "lat": 42.8959728,
+  "lon": 0.1008646,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de Castillon de la Laquette"
+  }
+},
+{
+  "type": "node",
+  "id": 3747878939,
+  "lat": -31.6533691,
+  "lon": -71.2433436,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "closest_town": "Illapel",
+    "ele": "325",
+    "icao": "SCUU",
+    "name": "Aérodromo El Peral",
+    "operator": "Jorge Wenke H.",
+    "phone": "+56222423397",
+    "source": "DGAC"
+  }
+},
+{
+  "type": "node",
+  "id": 3747913020,
+  "lat": -31.6842269,
+  "lon": -71.2627691,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "288",
+    "icao": "SCRX",
+    "name": "Aeródromo Pintacura",
+    "operator": "Ignacio Alamos J.",
+    "phone": "+5633716003",
+    "source": "DGAC"
+  }
+},
+{
+  "type": "node",
+  "id": 3875101915,
+  "lat": 47.7002691,
+  "lon": 10.0215063,
+  "tags": {
+    "aerodrome": "gliding",
+    "aeroway": "gliding",
+    "name": "Luftsportgruppe Isny e.V."
+  }
+},
+{
+  "type": "node",
+  "id": 3885366669,
+  "lat": -10.2588889,
+  "lon": -67.6872222,
+  "tags": {
+    "addr:city": "Rio Branco",
+    "addr:state": "AC",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "201",
+    "icao": "SWNC",
+    "name": "Fazenda Nictheroy",
+    "source": "http://www.anac.gov.br/",
+    "source:date": "2015-11-16"
+  }
+},
+{
+  "type": "node",
+  "id": 3885366670,
+  "lat": -9.9798377,
+  "lon": -67.4940767,
+  "tags": {
+    "addr:city": "Rio Branco",
+    "addr:state": "AC",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "195",
+    "icao": "SDNQ",
+    "name": "Fazenda Água Limpa",
+    "source": "http://www.anac.gov.br/",
+    "source:date": "2015-11-16"
+  }
+},
+{
+  "type": "node",
+  "id": 3885366671,
+  "lat": -9.1898846,
+  "lon": -71.9469751,
+  "tags": {
+    "addr:city": "Jordão",
+    "addr:state": "AC",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "365",
+    "icao": "SJOD",
+    "name": "Jordão",
+    "note": "Operação VFR Diurna",
+    "source": "http://www.anac.gov.br/",
+    "source:date": "2015-11-16"
+  }
+},
+{
+  "type": "node",
+  "id": 3885366674,
+  "lat": -8.2716667,
+  "lon": -72.7452778,
+  "tags": {
+    "addr:city": "Porto Walter",
+    "addr:state": "AC",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "242",
+    "icao": "SIRW",
+    "name": "Porto Walter",
+    "source": "http://www.anac.gov.br/",
+    "source:date": "2015-11-16"
+  }
+},
+{
+  "type": "node",
+  "id": 3885366675,
+  "lat": -9.4436535,
+  "lon": -70.4846775,
+  "tags": {
+    "addr:city": "Santa Rosa do Purus",
+    "addr:state": "AC",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "ele": "229",
+    "icao": "SSRA",
+    "name": "Santa Rosa do Purus",
+    "source": "http://www.anac.gov.br/",
+    "source:date": "2015-11-16"
+  }
+},
+{
+  "type": "node",
+  "id": 4016952265,
+  "lat": 46.1977285,
+  "lon": 6.7640896,
+  "tags": {
+    "aerodrome": "mountain airfield",
+    "aeroway": "aerodrome",
+    "name": "Altisurface de Morzine-Avoriaz",
+    "ref": "AVF"
+  }
+},
+{
+  "type": "node",
+  "id": 4112225101,
+  "lat": -26.9103046,
+  "lon": 20.6040805,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aerodrome:type": "private",
+    "aeroway": "aerodrome",
+    "name": "Koo Pan"
+  }
+},
+{
+  "type": "node",
+  "id": 4180581291,
+  "lat": 43.7455196,
+  "lon": 10.4046226,
+  "tags": {
+    "aerodrome": "airfield",
+    "aeroway": "aerodrome",
+    "fixme": "CdV o Aviosuperfice?",
+    "local_ref": "PISGT",
+    "name": "Aviosuperficie Le Prata",
+    "source": "http://www.ulm.it/hangar/campi/scheda1.htm?chiave=69"
+  }
+},
+{
+  "type": "node",
+  "id": 4231839490,
+  "lat": 11.5518157,
+  "lon": 43.1496823,
+  "tags": {
+    "aerodrome": "international",
+    "aerodrome:type": "military/public",
+    "aeroway": "aerodrome",
+    "closest_town": "Djibouti City",
+    "ele": "15",
+    "iata": "JIB",
+    "icao": "HDAM",
+    "is_in": "Djibouti,Djibouti",
+    "is_in:city": "Djibouti",
+    "is_in:country": "Djibouti",
+    "name": "مطار جيبوتي الدولي",
+    "name:ar": "مطار جيبوتي الدولي",
+    "name:cs": "Mezinárodní letiště Džíbutí",
+    "name:de": "Flughafen Dschibuti",
+    "name:en": "Djibouti-Ambouli International Airport",
+    "name:fr": "Aéroport International de Djibouti-Ambouli",
+    "ref": "JIB",
+    "source": "wikipedia",
+    "wikidata": "Q620706",
+    "wikipedia": "fr:Aéroport international Ambouli"
+  }
+},
+{
+  "type": "node",
+  "id": 4261901477,
+  "lat": 30.2080054,
+  "lon": -85.8292411,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "helipad",
+    "elevation": "4",
+    "name": "Beach Mosquito Control District Heliport"
+  }
+},
+{
+  "type": "node",
+  "id": 4417986941,
+  "lat": 52.8121441,
+  "lon": 9.1635823,
+  "tags": {
+    "aerodrome": "gliding",
+    "aeroway": "aerodrome",
+    "ele": "17",
+    "name": "Hoya/Weser",
+    "operator": "Segelflugverein Hoya von 1931 e.V.",
+    "phone": "+49 4251 2526",
+    "website": "http://www.sfv-hoya.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 4432535110,
+  "lat": 51.5541106,
+  "lon": 4.5535144,
+  "tags": {
+    "aerodrome": "public",
+    "aeroway": "aerodrome",
+    "ele": "9",
+    "icao": "EHSE",
+    "name": "Breda International Airport",
+    "old_name:en": "Seppe Airport",
+    "old_name:nl": "Vliegveld Seppe",
+    "operator": "Seppe Airport NV",
+    "website": "https://www.breda-airport.eu"
+  }
+},
+{
+  "type": "node",
+  "id": 4437493803,
+  "lat": 51.0037782,
+  "lon": -3.2413885,
+  "tags": {
+    "access": "private",
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "name": "Heywood Farm Airstrip"
+  }
+},
+{
+  "type": "node",
+  "id": 4450036968,
+  "lat": 57.1271691,
+  "lon": -4.6700974,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "name": "Glendoe Estate Airstrip"
+  }
+},
+{
+  "type": "node",
+  "id": 4460696838,
+  "lat": 55.0266020,
+  "lon": 11.3510735,
+  "tags": {
+    "aerodrome": "airsport",
+    "aerodrome:type": "private",
+    "aeroway": "aerodrome",
+    "icao": "EKVO",
+    "name": "Vejrø Flyveplads",
+    "website": "http://www.vejroe.dk/flyveplads.aspx"
+  }
+},
+{
+  "type": "node",
+  "id": 4470900805,
+  "lat": 54.7690065,
+  "lon": 11.9494316,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "name": "Orupgaard Flyveplads"
+  }
+},
+{
+  "type": "node",
+  "id": 4470905984,
+  "lat": 55.6079151,
+  "lon": 8.4399571,
+  "tags": {
+    "aerodrome": "airsport",
+    "aerodrome:type": "private",
+    "aeroway": "aerodrome",
+    "description": "Watch out for model aircraft and skydivers",
+    "name": "Varde Flyveplads",
+    "name:en": "Varde Airfield",
+    "opening_hours": "07:00-22:00",
+    "operator": "Vestjydsk Flyveklub",
+    "phone": "+45 50997007",
+    "website": "https://vestjydskflyveklub.dk/da/varde-flyveplads/"
+  }
+},
+{
+  "type": "node",
+  "id": 4471661257,
+  "lat": 55.2837410,
+  "lon": 10.7140624,
+  "tags": {
+    "aerodrome": "airsport",
+    "aeroway": "aerodrome",
+    "name": "Sulkendrup Flyveplads"
+  }
+},
+{
+  "type": "node",
+  "id": 4496602439,
+  "lat": 7.4920746,
+  "lon": -65.6565153,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "icao": "SVRI",
+    "name": "Santa Rosalía Pista",
+    "name:en": "Santa Rosalía Runway"
+  }
+},
+{
+  "type": "node",
+  "id": 4499012970,
+  "lat": 7.4224446,
+  "lon": -65.1850908,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "icao": "SVMA",
+    "name": "Maripa Pista",
+    "name:en": "Maripa Runway"
+  }
+},
+{
+  "type": "node",
+  "id": 4524471552,
+  "lat": 58.2141396,
+  "lon": 22.5091283,
+  "tags": {
+    "aerodrome": "water",
+    "aeroway": "aerodrome",
+    "name": "Roomassaare vesilennukite terminal",
+    "name:en": "Roomassaare Seaplane Terminal"
+  }
+},
+{
+  "type": "node",
+  "id": 4584390962,
+  "lat": 9.2011134,
+  "lon": -72.5654677,
+  "tags": {
+    "aerodrome": "disused",
+    "icao": "SVRO",
+    "name": "Pista de Rosario"
+  }
+},
+{
+  "type": "node",
+  "id": 4585335555,
+  "lat": 9.1458045,
+  "lon": -66.2681227,
+  "tags": {
+    "aerodrome": "disused",
+    "icao": "SVLR",
+    "name": "Pista de La Reforma"
+  }
+},
+{
+  "type": "node",
+  "id": 4623765635,
+  "lat": 7.7669716,
+  "lon": -70.3030390,
+  "tags": {
+    "aerodrome": "private",
+    "aeroway": "aerodrome",
+    "icao": "SVNE",
+    "name": "Pista de Las Mercedes",
+    "name:en": "Las Mercedes Runway"
+  }
+},
+{
+  "type": "node",
+  "id": 4675502121,
+  "lat": 8.6465920,
+  "lon": -70.2616202,
+  "tags": {
+    "aerodrome": "military",
+    "aeroway": "aerodrome",
+    "name": "Base militar Fuerte Tavacare"
+  }
+},
+{
+  "type": "node",
+  "id": 4722793629,
+  "lat": 55.8149889,
+  "lon": -126.4103029,
+  "tags": {
+    "aerodrome": "disused",
+    "aeroway": "airstrip",
+    "name": "Driftwood Airstrip"
+  }
+},
+{
+  "type": "node",
+  "id": 4814397756,
+  "lat": -20.3090473,
+  "lon": 23.9076240,
+  "tags": {
+    "aerodrome": "airstrip",
+    "name": "Makalamabedi Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 4891618257,
+  "lat": 19.8359718,
+  "lon": -73.3579047,
+  "tags": {
+    "aerodrome": "public",
+    "name": "Môle-Saint-Nicolas Airport"
+  }
+},
+{
+  "type": "node",
+  "id": 5108789270,
+  "lat": 48.7557854,
+  "lon": 24.2762891,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "local_ref": "ZBK6",
+    "name": "Луквиця",
+    "name:en": "Lukvytsia",
+    "name:uk": "Луквиця",
+    "source": "maps.aopa.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 5109631232,
+  "lat": 45.3348508,
+  "lon": 40.4102943,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "local_ref": "ZC4B",
+    "name": "Совхоз Кубань",
+    "name:en": "Sovkhoz Kuban'",
+    "name:ru": "Совхоз Кубань",
+    "source": "maps.aopa.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 5110224189,
+  "lat": 45.5068018,
+  "lon": 39.9770787,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "local_ref": "ZC55",
+    "name": "Мирный",
+    "name:en": "Mirniy",
+    "name:ru": "Мирный",
+    "source": "maps.aopa.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 5110224192,
+  "lat": 47.1765616,
+  "lon": 41.2980107,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "local_ref": "ZC36",
+    "name": "Новосадковский",
+    "name:en": "Novosadkovskiy",
+    "source": "maps.aopa.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 5110865717,
+  "lat": 45.7541545,
+  "lon": 40.1356605,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "local_ref": "ZC7A",
+    "name": "Алексеевская",
+    "name:en": "Alekseyevskaya",
+    "name:ru": "Алексеевская"
+  }
+},
+{
+  "type": "node",
+  "id": 5119915035,
+  "lat": 61.3869444,
+  "lon": 15.8333333,
+  "tags": {
+    "aerodrome": "regional",
+    "aeroway": "aerodrome",
+    "icao": "ESUY",
+    "name": "Edsby Flygplats",
+    "name:en": "Edsby Airfield"
+  }
+},
+{
+  "type": "node",
+  "id": 5123940127,
+  "lat": 50.1835588,
+  "lon": 4.3693245,
+  "tags": {
+    "aerodrome": "seaplane",
+    "aeroway": "aerodrome",
+    "contact:email": "contact@seaplane.be",
+    "icao": "EBEH",
+    "name": "Hydrobase de l'Eau d'Heure",
+    "source": "AIP BE at www.belgocontrol.be"
+  }
+},
+{
+  "type": "node",
+  "id": 5124074876,
+  "lat": 45.3090585,
+  "lon": 40.2906219,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "local_ref": "ZC66",
+    "name": "Алексее-Тенгинская",
+    "name:en": "Alekseye-Tenginskaya Airstrip"
+  }
+},
+{
+  "type": "node",
+  "id": 5125162332,
+  "lat": 51.6035058,
+  "lon": -1.1846508,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "name": "North Moreton Airstrip"
+  }
+},
+{
+  "type": "node",
+  "id": 5126161665,
+  "lat": 46.4652975,
+  "lon": 41.3070428,
+  "tags": {
+    "aerodrome": "Airstrip",
+    "aeroway": "aerodrome",
+    "local_ref": "ZD8B",
+    "name": "Славяне",
+    "name:en": "Slavyane Airstrip",
+    "name:ru": "Славяне"
+  }
+},
+{
+  "type": "node",
+  "id": 5126170581,
+  "lat": 45.4483075,
+  "lon": 38.1980802,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "local_ref": "ZC8J",
+    "name": "Полтавская",
+    "name:en": "Poltavskaya Airstrip",
+    "name:ru": "Полтавская",
+    "source": "maps.aopa.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 5127880734,
+  "lat": 52.3909786,
+  "lon": 41.4209510,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "local_ref": "ZDE3",
+    "name": "Знаменка",
+    "name:en": "Znamenka",
+    "source": "maps.aopa.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 5130931697,
+  "lat": 53.5446215,
+  "lon": 26.3023107,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "local_ref": "ZD4D",
+    "name": "Турец",
+    "name:en": "Turets"
+  }
+},
+{
+  "type": "node",
+  "id": 5131002173,
+  "lat": 59.0649442,
+  "lon": 31.7636045,
+  "tags": {
+    "aerodrome": "seaplane",
+    "aeroway": "aerodrome",
+    "local_ref": "ZE28",
+    "name": "Волхов-Мост",
+    "name:en": "Volkhov-Most",
+    "note": "There must be MANY more such places in Russia"
+  }
+},
+{
+  "type": "node",
+  "id": 5179600175,
+  "lat": 43.8472519,
+  "lon": 3.9165133,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "local_ref": "LF3470",
+    "name": "Plaine de Lacan",
+    "source": "basulm.ffplum.fr"
+  }
+},
+{
+  "type": "node",
+  "id": 5179619083,
+  "lat": 49.0734070,
+  "lon": 5.7519253,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "contact:email": "christophe.robinet@wanadoo.fr",
+    "local_ref": "LF5554",
+    "name": "La Bertaucourt",
+    "source": "basulm.ffplum.fr"
+  }
+},
+{
+  "type": "node",
+  "id": 5180526947,
+  "lat": 52.1850211,
+  "lon": -0.5159565,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "name": "Earwig Farm Airstrip"
+  }
+},
+{
+  "type": "node",
+  "id": 5250114936,
+  "lat": 51.2540766,
+  "lon": -2.3247905,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "name": "Orchardleigh Private Airstrip"
+  }
+},
+{
+  "type": "node",
+  "id": 5253676323,
+  "lat": 53.3227085,
+  "lon": -0.2576933,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "name": "Grange Farm private Airstrip"
+  }
+},
+{
+  "type": "node",
+  "id": 5258017100,
+  "lat": 39.3387673,
+  "lon": -2.4618687,
+  "tags": {
+    "aerodrome": "airstrip",
+    "aeroway": "aerodrome",
+    "fixme": "pls add name & other details as available",
+    "name": "??",
+    "note": "Associated with the nearby restaurant?"
+  }
+},
+{
+  "type": "node",
+  "id": 5316537660,
+  "lat": 45.8103864,
+  "lon": 5.7823982,
+  "tags": {
+    "aerodrome": "seaplane_base",
+    "aeroway": "aerodrome",
+    "local_ref": "LF0158",
+    "name": "Base Hydro-ULM Rhône Lavours"
+  }
+},
+{
+  "type": "node",
+  "id": 5417782322,
+  "lat": -27.6927757,
+  "lon": 114.2592316,
+  "tags": {
+    "aerodrome": "regional",
+    "aerodrome:type": "public",
+    "aeroway": "aerodrome",
+    "ele": "157 m",
+    "iata": "KAX",
+    "icao": "YKBR",
+    "name": "Kalbarri Airport",
+    "source": "ourairports.com",
+    "website": "http://www.northampton.wa.gov.au",
+    "wikidata": "Q4209186",
+    "wikipedia": "en:Kalbarri Airport"
+  }
+}
+
+  ]
+}
